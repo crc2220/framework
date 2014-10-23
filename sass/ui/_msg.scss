@@ -1,0 +1,44 @@
+%messages{
+	padding: 20px;
+	border-radius: $border-radius * 15;
+	color: white;
+	font-family: $sans-serif;
+	margin: 3px;
+	a{
+		transition: color $transition-speed;
+		border-bottom: 1px dotted;
+		@include tooltip('Testing',top);
+			&:hover{
+				color: #fff;
+			}
+	}
+}
+
+.ui_msg-success{
+	@extend %messages;
+	background: $green;
+	a{
+		color: $light-green;
+	}
+}
+.ui_msg-error{
+	@extend %messages;
+	background: $red;
+	a{
+		color: $light-red;
+	}
+}
+.ui_msg-notice{
+	@extend %messages;
+	background: $blue;
+	a{
+		color: $light-blue;
+	}
+}
+.ui_msg-alert{
+	@extend %messages;
+	background: $yellow;
+	a{
+		color: $light-yellow;
+	}
+}

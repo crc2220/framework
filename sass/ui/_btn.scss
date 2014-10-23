@@ -1,0 +1,14 @@
+//default
+input.ui_btn, .ui_btn, button{
+	padding: 10px 20px;
+	border: none;
+	border-bottom: 3px solid darken($blue, 20%);
+	background: $blue;
+	color: #fff;
+	font-family: $sans-serif;
+	transition: background $transition-speed;
+	&:hover{
+		background: lighten($blue, 20%);
+	}
+}
+//custom

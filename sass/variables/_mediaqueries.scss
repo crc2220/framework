@@ -1,0 +1,32 @@
+//@include media(hand){ ... }
+@mixin media($breakpoint) {
+  @if $breakpoint == "hand" {
+    @media (max-width: 600px) {
+      @content;
+    }
+  }
+
+  @else if $breakpoint == "tablet" {
+    @media (max-width: 767px) {
+      @content;
+    }
+  }
+ 
+  @else if $breakpoint == "lap" {
+    @media (max-width: 1024px) {
+      @content;
+    }
+  }
+ 
+  @else if $breakpoint == "desk" {
+    @media (max-width: 1300px) {
+      @content;
+    }
+  }
+
+  @else if $breakpoint == "wall" {
+    @media (min-width: 1301px) {
+      @content;
+    }
+  }
+}

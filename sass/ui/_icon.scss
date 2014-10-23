@@ -1,0 +1,22 @@
+.ui_icon {
+    font-size: 10px;
+}
+
+.ui_icon:before {
+    content:' ';
+    vertical-align:middle;
+    display: inline-block;
+    background-image: url("img/svg/sprite.svg");
+    background-repeat: no-repeat;
+    background-size: 10em 10em;
+}
+
+.no-svg .ui_icon:before {
+    background-image: url("img/svg/sprite.png");
+}
+
+.ui_icon-grid:before {
+    background-position: 0em 0em;
+    width: 10em;
+    height: 10em;
+}

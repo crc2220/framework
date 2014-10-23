@@ -1,0 +1,78 @@
+//@include media(hand){ ... }
+@mixin media($breakpoint) {
+  @if $breakpoint == "hand" {
+    @media (max-width: 600px) {
+      @content;
+    }
+  }
+
+  @else if $breakpoint == "tablet" {
+    @media (max-width: 767px) {
+      @content;
+    }
+  }
+ 
+  @else if $breakpoint == "lap" {
+    @media (max-width: 1024px) {
+      @content;
+    }
+  }
+ 
+  @else if $breakpoint == "desk" {
+    @media (max-width: 1300px) {
+      @content;
+    }
+  }
+
+  @else if $breakpoint == "wall" {
+    @media (min-width: 1301px) {
+      @content;
+    }
+  }
+}
+
+// tooltip mixin
+@mixin tooltip($content: attr(data-tooltip), $direction: top) {
+  position: relative;
+  &:before, &:after {
+    display: none;
+    z-index: 98;
+  }
+  &:hover {
+    &:after { // for text bubble
+      content: $content;
+      display: block;
+      position: absolute;
+      height: 12px; // (makes total height including padding 22px)
+      padding: 10px 20px;
+      font-size: 12px;
+      white-space: nowrap;
+      color: #fff;
+      text-shadow: 1px 1px #000;
+      background-color: #222;
+    }
+    @if ($direction == 'top'){
+      &:before {
+        @include triangle(6px, #222, down);
+        top: -6px; margin-top: 0;
+        left: 47%;
+      }
+      &:after {
+        top: -28px;
+        left: 47%; margin-left: -20px;
+      }
+    }
+    @else if ($direction == 'bottom'){
+      &:before {
+        @include triangle(6px, #222, up);
+        top: auto; margin-top: 0;
+        bottom: -6px;
+        left: 47%;
+      }
+      &:after {
+        bottom: -28px;
+        left: 47%; margin-left: -20px;
+      }
+    }
+  }
+}
