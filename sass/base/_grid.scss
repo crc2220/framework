@@ -1,9 +1,14 @@
 /* eye candy */
-.row {
-  border-top: 1px solid black;
-}
-.col {
-  background: rgba(121, 11, 44, 0.21);
+@if $eye_candy == true{
+  .row {
+    border-top: 5px solid black;
+  }
+  .col {
+    background: rgba(121, 11, 44, 0.21);
+    text-align:center;
+    color: #fff;
+    border: 1px solid white;
+  }
 }
 
 .container{

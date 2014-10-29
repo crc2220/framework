@@ -4,13 +4,12 @@ $google-font-sans-serif: url(http://fonts.googleapis.com/css?family=Lato:100,300
   @import url($google-font-sans-serif);
 }
 $sans-serif: Lato, Arial, Helvetica, sans-serif;
-$serif: Georgia, serif;
+$serif: $sans-serif, Georgia, serif;
 $base-font-family: $serif;
 $header-font-family: $sans-serif;
 
 // Base Sizes
-$base-font-size:  0.625em;
-$base-line-height: $base-font-size * 1.5;
+$base-line-height: 16px * 1.5;
 // Header Sizes
 $header-line-height: 1.2em;
 

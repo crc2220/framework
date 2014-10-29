@@ -2,6 +2,10 @@
 ul, ol{
 	margin: 15px 0 15px 15px;
 	padding-left: 15px;
+	float: left;
+}
+li{
+	clear: both;
 }
 dl{
 	dt{
