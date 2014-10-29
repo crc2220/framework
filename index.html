@@ -39,63 +39,63 @@
 <body>
 <!--<![endif]-->
 <div class="container">
-    <h1><a href="base">Variables</a></h1>
-        <ul>
-            <li>body: $base-background</li>
-            <li>colors: </li>
-                <ul>
-                    <li>$blue:         #3498db;</li>
-                    <li>   $light-blue:   lighten($blue, 20%);</li>
-                    <li>   $dark-gray:    #333; </li>
-                    <li>   $medium-gray:  #999; </li>
-                    <li>   $light-gray:   #DDD; </li>
-                    <li>   $red:          #e74c3c; </li>
-                    <li>   $light-red:    lighten($red, 20%); </li>
-                    <li>   $yellow:       #f1c40f; </li>
-                    <li>  $light-yellow: lighten($yellow, 20%); </li>
-                    <li>  $green:        #2ecc71; </li>
-                    <li>   $light-green:  lighten($green, 20%);</li>
-                </ul>
-            
-            <li><a href="typography">Typography</a></li>
-            <li><a href="reset">Reset</a></li>
-            <li><a href="utilities">Utilities</a></li>
-        </ul>
-    <h1><a href="base">Base</a></h1>
-        <ul>
-            <li><a href="body">Body</a></li>
-            <li><a href="grid">Grid</a></li>
-            <li><a href="typography">Typography</a></li>
-            <li><a href="reset">Reset</a></li>
-            <li><a href="utilities">Utilities</a></li>
-        </ul>
-    <h1><a href="base">UI</a></h1>
-        <ul>
-            <li><a href="bq">Blockquote</a></li>
-            <li><a href="btn">Buttons</a></li>
-            <li><a href="forms">Forms</a></li>
-            <li><a href="gr">Gradients</a></li>
-            <li><a href="hr">Horizontal Rules</a></li>
-            <li><a href="icon">Icons</a></li>
-            <li><a href="img">Images</a></li>
-            <li><a href="list">Lists</a></li>
-            <li><a href="msg">Messages</a></li>
-            <li><a href="table">Tables</a></li>
-            <li><a href="tt">Tooltips</a></li>
-        </ul>
-    <h1><a href="third-party">third-party</a></h1>
-        <ul>
-            <li><a href="animate">animate</a></li>
-        </ul>
-    <h1><a href="pages">Pages</a></h1>
-        <ul>
-            <li><a href="header">header.php</a></li>
-            <li><a href="footer">footer.php</a></li>
-            <li><a href="front">front-page.php</a></li>
-            <li><a href="home">home.php</a></li>
-            <li><a href="inner">page.php</a></li>
-            <li><a href="single">single.php</a></li>
-        </ul>
+    <div class="row">
+    <div class="col col-2">
+        <h1><a href="base">Variables</a></h1>
+            <ul>
+                <li><a href="body">Body</a></li>
+                <li><a href="colors">Colors</a></li>
+                <li><a href="typography">Typography</a></li>
+                <li><a href="reset">Reset</a></li>
+                <li><a href="utilities">Utilities</a></li>
+            </ul>
+    </div> 
+    <div class="col col-2">
+        <h1><a href="base">Base</a></h1>
+            <ul>
+                <li><a href="body">Body</a></li>
+                <li><a href="grid">Grid</a></li>
+                <li><a href="typography">Typography</a></li>
+                <li><a href="reset">Reset</a></li>
+                <li><a href="utilities">Utilities</a></li>
+            </ul>
+    </div>
+ 
+    <div class="col col-2">
+        <h1><a href="base">UI</a></h1>
+            <ul>
+                <li><a href="bq">Blockquote</a></li>
+                <li><a href="btn">Buttons</a></li>
+                <li><a href="forms">Forms</a></li>
+                <li><a href="gr">Gradients</a></li>
+                <li><a href="hr">Horizontal Rules</a></li>
+                <li><a href="icon">Icons</a></li>
+                <li><a href="img">Images</a></li>
+                <li><a href="list">Lists</a></li>
+                <li><a href="msg">Messages</a></li>
+                <li><a href="table">Tables</a></li>
+                <li><a href="tt">Tooltips</a></li>
+            </ul>
+    </div>
+    <div class="col col-2">
+        <h1><a href="third-party">3rd Party</a></h1>
+            <ul>
+                <li><a href="animate">animate</a></li>
+            </ul>
+    </div>
+    <div class="col col-2">
+        <h1><a href="pages">Pages</a></h1>
+            <ul>
+                <li><a href="header">header.php</a></li>
+                <li><a href="footer">footer.php</a></li>
+                <li><a href="front">front-page.php</a></li>
+                <li><a href="home">home.php</a></li>
+                <li><a href="inner">page.php</a></li>
+                <li><a href="single">single.php</a></li>
+            </ul>
+    </div>
+
+</div>
 
     <div class="row">
         <h1>Grid</h1>
@@ -127,13 +127,11 @@
         </div>
 
         <div class="row">
-            <h1>Bitters example page</h1>
+            <h1>Typography</h1>
 
             <p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
 
             <hr>
-
-            <h1>Headings</h1>
 
             <h1>h1. Heading</h1>
             <h2>h2. Heading</h2>
@@ -319,19 +317,19 @@
             <hr>
 
             <h1 id="flashes">Flash / error messages</h1>
-            <div class="success">
+            <div class="ui_msg-success">
                 <span>This is a success message <a href="#">with a link</a>
                 </span>
             </div>
-            <div class="error">
+            <div class="ui_msg-error">
                 <span>This is an error message <a href="#">with a link</a>
                 </span>
             </div>
-            <div class="notice">
+            <div class="ui_msg-notice">
                 <span>This is an notice message <a href="#">with a link</a>
                 </span>
             </div>
-            <div class="alert">
+            <div class="ui_msg-alert">
                 <span>This is an alert message <a href="#">with a link</a>
                 </span>
             </div>
