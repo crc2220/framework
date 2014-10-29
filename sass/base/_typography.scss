@@ -19,32 +19,32 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  @include font-size(3.6); 
+  @include font-size($h1); 
   margin:0.6em 0;
 }
 
 h2 {
-  @include font-size(3.2);
+  @include font-size($h2);
   margin:0.5em 0;
 }
 
 h3 {
-  @include font-size(2.8);
+  @include font-size($h3);
   margin:0.4em 0;
 }
 
 h4 {
-  @include font-size(2.4);
+  @include font-size($h4);
   margin:0.3em 0;
 }
 
 h5 {
-  @include font-size(2.0);
+  @include font-size($h5);
   margin:0.2em 0;
 }
 
 h6 {
-  @include font-size(1.6);
+  @include font-size($h6);
   text-decoration:uppercase;
   margin:0.1em 0;
 }
@@ -65,7 +65,7 @@ a {
     color: $hover-link-color;
   }
 
-  &:active, &:focus {
+  &:active, &:focus, &:visited {
     color: $hover-link-color;
     outline: none;
   }
