@@ -11,6 +11,22 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="description" content="<?php bloginfo( 'description' ); ?>">
 
+	<!-- social -->
+	<!-- facebook -->
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:site_name" content="Thinking Ahead Business Series">
+	<meta property="og:url" content="https://thinkingahead.capitalbankmd.com/">
+	<meta property="og:title" content="Thinking Ahead Business Series">
+	<meta property="og:description" content="Social Media Strategies for Business Success -- Get the Conversation Started Thursday December 4th, 2014 | | 4:00pm – 5:30pm Join us for a complimentary session as Capital Bank presents David Nelsen, a social media pioneer and award winning CEO, who will outline key social media strategies to connect with audiences and improve your business performance.">
+	<meta property="og:image" content="https://thinkingahead.capitalbankmd.com/wp-content/uploads/2014/10/tabs-social-sharing-thumbnail.jpg">
+	<!-- twitter -->
+	<meta name="twitter:site" content="@CompanyName">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Thinking Ahead Business Series">
+	<meta name="twitter:description" content="Social Media Strategies for Business Success -- Get the Conversation Started Thursday December 4th, 2014 | | 4:00pm – 5:30pm ">
+	<meta name="twitter:image" content="https://thinkingahead.capitalbankmd.com/wp-content/uploads/2014/10/tabs-social-sharing-thumbnail.jpg/">
+
 	<!-- mobile specific metas -->
 	<meta name="viewport" content = "width = device-width, initial-scale = 1, minimum-scale = 1, maximum-scale = 1" />
 	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
