@@ -13,6 +13,7 @@ var gulp = require('gulp'),
     filter       = require('gulp-filter'),
     svg2png      = require('gulp-svg2png'),
     concat = require('gulp-concat'),
+    order = require("gulp-order"),
     size = require('gulp-size'),
     browserSync = require('browser-sync'),
     reload = browserSync.reload,
@@ -48,11 +49,14 @@ gulp.task('sass', function() {
 });
 //js
 gulp.task('js', function() {
-  return gulp.src('js/main.js')
+  return gulp.src(['js/ui/*.js', 'js/main.js'])
+    .pipe(order([
+        "js/ui/*.js",
+        "js/main.js"
+    ]))
     .pipe(jshint())
     .pipe(jshint.reporter('default'))
-    .pipe(gulp.dest('js'))
-    .pipe(rename({suffix: '.min'}))
+    .pipe(concat('main.min.js'))
     .pipe(uglify()) 
     .pipe(gulp.dest('js'))
     .pipe(size())

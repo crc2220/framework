@@ -22,5 +22,9 @@ jQuery(document).ready(function($) {
     $(".nav .more").removeClass("active-nav-item");
   });
 
+  // tabs
+  $('.ui_tabs').each(function(){
+    new Tabs( this );
+  });
 
 });

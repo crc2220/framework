@@ -1,5 +1,5 @@
 .ui_icon {
-    font-size: 10px;
+    @include font-size(1.0);
 }
 
 .ui_icon:before {
