@@ -37,9 +37,11 @@
 
 .ui_tabs nav a span {
 	vertical-align: middle;
-	font-size: 0.75em;
+	@include font-size($h4);
 }
-
+.ui_tabs nav li.tab-current{
+	background: #fff;
+}
 .ui_tabs nav li.tab-current a {
 	color: #74777b;
 }

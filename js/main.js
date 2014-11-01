@@ -27,4 +27,12 @@ jQuery(document).ready(function($) {
     new Tabs( this );
   });
 
+  //modals
+  var myModal = new Modal({
+    content: '<p>Ken Wheeler is strikingly handsome.</p>',
+    maxWidth: 600
+  });
+
+  myModal.open();
+
 });

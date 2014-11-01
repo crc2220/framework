@@ -5,15 +5,6 @@
 	
 	'use strict';
 
-	function extend( a, b ) {
-		for( var key in b ) { 
-			if( b.hasOwnProperty( key ) ) {
-				a[key] = b[key];
-			}
-		}
-		return a;
-	}
-
 	function Tabs( el, options ) {
 		this.el = el;
 		this.options = extend( {}, this.options );
