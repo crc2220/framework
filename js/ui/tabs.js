@@ -1,60 +1,22 @@
-/**
- * tabs.js 
- */
-;( function( window ) {
-	
-	'use strict';
-
-	function Tabs( el, options ) {
-		this.el = el;
-		this.options = extend( {}, this.options );
-  		extend( this.options, options );
-  		this._init();
-	}
-
-	Tabs.prototype.options = {
-		start : 0
-	};
-
-	Tabs.prototype._init = function() {
-		// tabs elems
-		// this.tabs = $(this).find( 'nav > ul > li' );
-		this.tabs = [].slice.call( this.el.querySelectorAll( 'nav > ul > li' ) );
-		// content items
-		// this.items = $(this).find( '.ui_tabs-content > section' );
-		this.items = [].slice.call( this.el.querySelectorAll( '.ui_tabs-content > section' ) );
-		// current index
-		this.current = -1;
-		// show current content item
-		this._show();
-		// init events
-		this._initEvents();
-	};
-
-	Tabs.prototype._initEvents = function() {
-		var self = this;
-		this.tabs.forEach( function( tab, idx ) {
-			tab.addEventListener( 'click', function( ev ) {
-				ev.preventDefault();
-				self._show( idx );
-			} );
-		} );
-	};
-
-	Tabs.prototype._show = function( idx ) {
-		if( this.current >= 0 ) {
-			removeClass(this.tabs[ this.current ], 'tab-current');
-			removeClass(this.items[ this.current ], 'content-current');
-		}
-		// change current
-		this.current = idx !== undefined ? idx : this.options.start >= 0 && this.options.start < this.items.length ? this.options.start : 0;
-		addClass(this.tabs[ this.current ], 'tab-current');
-		addClass(this.items[ this.current ], 'content-current');
-		// this.tabs[ this.current ].className = 'tab-current';
-		// this.items[ this.current ].className = 'content-current';
-	};
-
-	// add to global namespace
-	window.Tabs = Tabs;
-
-})( window );
+var Tabs = function(){
+    var tabContent = $('.ui_tab-content'),
+        tab        = $('.ui_tab');
+    
+    $(tabContent).hide();
+    
+    $(tab).first().addClass('ui_tab-active');
+    $(tabContent).first().show();
+    
+    $(tab).on('click', function(){
+        $(tabContent).hide();
+        $(tab).removeClass('ui_tab-active');
+        $(this).addClass('ui_tab-active');
+        var thisTab = $(this).data('tab');
+        $(tabContent).each(function(){
+            if($(this).data('tab') === thisTab ){
+                $(this).fadeIn();
+            }
+        });
+    });
+ 
+};

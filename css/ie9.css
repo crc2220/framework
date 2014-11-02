@@ -66,6 +66,6 @@
 }
 
 /*tabs*/
-.ui_tabs-style-1 nav li::before{
-  background: none  !important;
+.ui_tabs{
+  
 }

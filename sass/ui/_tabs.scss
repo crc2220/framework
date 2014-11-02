@@ -1,0 +1,12 @@
+.ui_tab{
+    width: 33.3% !important;
+    flex-basis: 33.3% !important;
+    background: #FAFAFA;
+    cursor: pointer;
+}
+.ui_tab-active{
+    background: #fff;
+}
+.ui_tab-content{
+    display: none;
+}

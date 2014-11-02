@@ -15,7 +15,8 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "1.11"
+    "jquery": "1.11",
+    "greensock": "~1.14.2"
   },
   "devDependencies": {}
 }
