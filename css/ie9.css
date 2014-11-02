@@ -64,3 +64,8 @@
   position: relative;
   margin-top: 13%;
 }
+
+/*tabs*/
+.ui_tabs-style-1 nav li::before{
+  background: none  !important;
+}

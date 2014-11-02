@@ -18,8 +18,10 @@
 
 	Tabs.prototype._init = function() {
 		// tabs elems
+		// this.tabs = $(this).find( 'nav > ul > li' );
 		this.tabs = [].slice.call( this.el.querySelectorAll( 'nav > ul > li' ) );
 		// content items
+		// this.items = $(this).find( '.ui_tabs-content > section' );
 		this.items = [].slice.call( this.el.querySelectorAll( '.ui_tabs-content > section' ) );
 		// current index
 		this.current = -1;
