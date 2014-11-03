@@ -13,6 +13,7 @@
 
 	<!-- social -->
 	<!-- facebook -->
+	<!-- images must be at least 200px x 200px -->
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="article">
 	<meta property="og:site_name" content="Thinking Ahead Business Series">
