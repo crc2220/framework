@@ -11,10 +11,13 @@ var Modals = function(){
                 class: 'ui_modal'
             }).appendTo('body');
             
-
-      
-            $('.ui_modal-overlay').fadeIn(900);
-            $('.ui_modal').fadeIn();
+            tl = new TimelineMax();
+            
+            tl.to($('.ui_modal-overlay'), .4, {opacity: 1})
+            // $('.ui_modal-overlay').fadeIn(900);
+            .to($('.ui_modal'), .1, {opacity: 1})
+            .from($('.ui_modal'), 1, {top: '-10%', ease: Elastic.easeOut});
+            
             var dataModal = $(self).data('modal');
             
             $('.ui_modal').html(dataModal);
