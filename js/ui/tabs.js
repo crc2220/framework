@@ -4,15 +4,15 @@ var Tabs = function(){
     
     $(tabContent).hide();
     
-    $(tab).first().addClass('ui_tab-active');
-    $(tabContent).first().show();
+    $('.row > .ui_tab:first-child').addClass('ui_tab-active');
+    $('.row').find('.ui_tab-content:first').fadeIn();
     
     $(tab).on('click', function(){
-        $(tabContent).hide();
-        $(tab).removeClass('ui_tab-active');
+        $(this).parent('.ui_tab-nav').siblings('.ui_tab-content').hide();
+        $(this).siblings().removeClass('ui_tab-active');
         $(this).addClass('ui_tab-active');
         var thisTab = $(this).data('tab');
-        $(tabContent).each(function(){
+        $(this).parent('.ui_tab-nav').siblings('.ui_tab-content').each(function(){
             if($(this).data('tab') === thisTab ){
                 $(this).fadeIn();
             }
