@@ -12,7 +12,6 @@ var Modals = function(){
             }).appendTo('body');
             
             tl = new TimelineMax();
-            
             tl.to($('.ui_modal-overlay'), .4, {opacity: 1})
             // $('.ui_modal-overlay').fadeIn(900);
             .to($('.ui_modal'), .1, {opacity: 1})
@@ -32,9 +31,17 @@ var Modals = function(){
         };
         
         var closeModal = function(){
-            $('.ui_modal-overlay').fadeOut( function() { $(this).remove(); });
+            tl = new TimelineMax();
+            tl.to($('.ui_modal'),1, {top: '-10%', ease: Elastic.easeIn})
+            // $('.ui_modal-overlay').fadeIn(900);
             
-            $('.ui_modal').fadeOut( function() { $(this).remove(); });
+            .to($('.ui_modal-overlay'), 1, {opacity: 0, onComplete: removeModal});
+            
+        };
+        
+         var removeModal = function(){
+            $('.ui_modal-overlay').remove();
+            $('.ui_modal').remove();
         };
       
         $('.ui_btn-modal').on('click', function(){
