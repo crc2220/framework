@@ -135,30 +135,25 @@
         </div>
 
         <div class="row">
-            <h1>Grid</h1>
-            <p>Based on flexbox with ie10 and under fallback.</p>
-            <div class="col col-1">1</div>
-            <div class="col col-2">2</div>
-            <div class="col col-3">3</div>
-            <div class="col col-4">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta optio perferendis temporibus molestias, excepturi quod, iusto, mollitia doloremque dolores sit ut. Vel cumque ex quasi illum recusandae pariatur sapiente unde.</p>
-            </div>
-            <div class="col col-2">2</div>
-            <div class="col col-6">6</div>
-            <div class="col col-6">6</div>
-            <div class="col col-12">12
-                <div class="row container">
-
-                    <div class="col col-6">6</div>
-                    <div class="col col-6">6
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta optio perferendis temporibus molestias, excepturi quod, iusto, mollitia doloremque dolores sit ut. Vel cumque ex quasi illum recusandae pariatur sapiente unde.</p>
-                        <div class="row">
-
-                            <div class="col col-6">6</div>
-                            <div class="col col-6">6
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta optio perferendis temporibus molestias, excepturi quod, iusto, mollitia doloremque dolores sit ut. Vel cumque ex quasi illum recusandae pariatur sapiente unde.</p>
-                            </div>
-                        </div>
+            <h1 class="col col-4">Grid</h1>
+            <p class="col col-8">Based on flexbox with ie10 and under fallback.
+            </p>
+            <div class="row">
+                <span class="row-info">.row</span>       
+                    <div class="col col-1">.col.col-1</div>
+                    <div class="col col-2">.col.col-2</div>
+                    <div class="col col-3">.col.col-3</div>
+                    <div class="col col-4">.col.col-4</div>
+                    <div class="col col-2">.col.col-2</div>
+            </div>  
+            <div class="row">
+                <span class="row-info">.row</span>  
+                <div class="col col-6">.col.col-6</div> 
+                <div class="col col-6">.col.col-6
+                    <div class="row">
+                        <span class="row-info">.row</span>   
+                        <div class="col col-2">.col.col-2</div>
+                        <div class="col col-10">.col.col-10</div>
                     </div>
                 </div>
             </div>
@@ -191,18 +186,6 @@
 
                 <hr>
 
-            <div class="row">
-                <h1>Buttons</h1>
-                <div class="ui_btn-lg">ui_btn-lg</div>
-                <div class="ui_btn">ui_btn</div>
-                <div class="ui_btn ui_btn-modal" data-modal="Hello there">Modal</div>
-                <div class="ui_btn ui_btn-modal" data-modal="Bullshit!">Modal</div>
-                <div class="ui_btn-sm">ui_btn-sm</div>
-
-                <div class="ui_btn-lg ui_btn-pill">ui_btn-lg</div>
-                <div class="ui_btn ui_btn-pill">ui_btn</div>
-                <div class="ui_btn-sm ui_btn-pill">ui_btn-sm</div>
-            </div>
                 <h1>List Types</h1>
 
                 <h3>Definition List</h3>
@@ -367,40 +350,54 @@
                 </blockquote>
 
                 <hr>
+                    
+                <div class="row">
+                    <h1>Buttons</h1>
+                    <div class="ui_btn-lg">ui_btn-lg</div>
+                    <div class="ui_btn">ui_btn</div>
+                    <div class="ui_btn ui_btn-modal" data-modal="Hello there">Modal</div>
+                    <div class="ui_btn ui_btn-modal" data-modal="Bullshit!">Modal</div>
+                    <div class="ui_btn-sm">ui_btn-sm</div>
 
-                <h1>Flash / error messages</h1>
-                
-                <div class="ui_msg-success">
-                    <span>This is a success message <a href="#">with a link</a>
-                    </span>
+                    <div class="ui_btn-lg ui_btn-pill">ui_btn-lg</div>
+                    <div class="ui_btn ui_btn-pill">ui_btn</div>
+                    <div class="ui_btn-sm ui_btn-pill">ui_btn-sm</div>
                 </div>
-                <div class="ui_msg-error">
-                    <span>This is an error message <a href="#">with a link</a>
-                    </span>
+                <div class="row">
+                    <h1>Flash / error messages</h1>
+                    
+                    <div class="ui_msg-success">
+                        <span>This is a success message <a href="#">with a link</a>
+                        </span>
+                    </div>
+                    <div class="ui_msg-error">
+                        <span>This is an error message <a href="#">with a link</a>
+                        </span>
+                    </div>
+                    <div class="ui_msg-notice">
+                        <span>This is an notice message <a href="#">with a link</a>
+                        </span>
+                    </div>
+                    <div class="ui_msg-alert">
+                        <span>This is an alert message <a href="#">with a link</a>
+                        </span>
+                    </div>
                 </div>
-                <div class="ui_msg-notice">
-                    <span>This is an notice message <a href="#">with a link</a>
-                    </span>
-                </div>
-                <div class="ui_msg-alert">
-                    <span>This is an alert message <a href="#">with a link</a>
-                    </span>
-                </div>
-
                 <hr>
             </div>
             <div class="row">
                 <h1>Tabs</h1>
-                <div class="ui_tab col col-4" data-tab="1">
-                    <h4>Tab 1</h4>
-                </div>
-                <div class="ui_tab col col-4" data-tab="2">
-                    <h4>Tab 2</h4>
-                </div>
-                <div class="ui_tab col col-4" data-tab="3">
-                    <h4>Tab 3</h4>
-                </div>
-                
+                <ul class="ui_tab-nav row">
+                    <li class="ui_tab col col-4" data-tab="1">
+                        <h4>Tab 1</h4>
+                    </li>
+                    <li class="ui_tab col col-4" data-tab="2">
+                        <h4>Tab 2</h4>
+                    </li>
+                    <li class="ui_tab col col-4" data-tab="3">
+                        <h4>Tab 3</h4>
+                    </li>
+                </ul>
                 <div class="ui_tab-content col col-12" data-tab="1">
                     <h4>Content 1</h4>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,

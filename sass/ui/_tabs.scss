@@ -3,9 +3,28 @@
     flex-basis: 33.3% !important;
     background: #FAFAFA;
     cursor: pointer;
+    position:relative;
 }
 .ui_tab-active{
     background: #fff;
+}
+.ui_tab-nav li:last-child::before{
+	content: '';
+	background: $blue;
+	height: 6px;
+	width:100%;
+	position:absolute;
+	bottom:0;
+	transition: all $speed;
+}
+li:first-child.ui_tab-active ~ li:last-child::before{
+	transform: translate3d(-204%,0,0);
+}
+li:nth-child(2).ui_tab-active ~ li:last-child::before{
+	transform: translate3d(-104%,0,0);
+}
+li:nth-child(3).ui_tab-active ~ li:last-child::before{
+	transform: translate3d(-4%,0,0);
 }
 .ui_tab-content{
     display: none;

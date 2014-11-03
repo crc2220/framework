@@ -1,0 +1,10 @@
+// linear gradients
+// @include linear-gradient(#1e5799, #2989d8);
+// @include linear-gradient(to top, #8fdce5, #3dc3d1);
+// @include linear-gradient(to top, #8fdce5, #3dc3d1, $fallback: red);
+// @include linear-gradient(50deg, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
+
+// radial gradients
+// @include radial-gradient(#1e5799, #3dc3d1);
+// @include radial-gradient(#1e5799, #3dc3d1, $fallback: red);
+// @include radial-gradient(circle at 50% 50%, #eee 10%, #1e5799 30%, #efefef);

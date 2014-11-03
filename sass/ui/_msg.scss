@@ -6,7 +6,7 @@
 	margin: 3px;
 	float:left;
 	a{
-		transition: color $transition-speed;
+		transition: color $speed;
 		border-bottom: 1px dotted;
 		@include tooltip('Testing',top);
 			&:hover{

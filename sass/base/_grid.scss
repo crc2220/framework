@@ -7,6 +7,14 @@
     background: rgba(208, 208, 208, 0.1);
     border: 1px solid white;
   }
+  .row-info{
+    position: absolute;
+    left: -32px;
+    top: -15px;
+    background: black;
+    color: white;
+    padding: 5px;
+  }
 }
 
 .container{
@@ -14,13 +22,13 @@
   margin:0 auto;
 }
 .row{
-  float:left;
   @include display(flex);
   @include align-items(stretch);
   @include flex-direction(row);
   @include justify-content(flex-start);
   @include flex-wrap(wrap);
   float: left; // <ie9
+  position:relative;
   margin: 0 auto;
   width:100%;
   max-width:$row_max_width;
