@@ -13,8 +13,8 @@ $('.ui_tt').on('mouseenter', function(){
       
       tl = new TimelineMax();
       tl.to($('.ui_tt-content'), .1, {display: 'block'})
-      .to($('.ui_tt-content'), .4, {borderBottom: 20, width: 300})
-      .fromTo($('.ui_tt-content'), .4, {
+      .to($('.ui_tt-content'), .2, {borderBottom: 20, width: 300})
+      .fromTo($('.ui_tt-content'), .3, {
         backgroundColor: 'rgba(0,0,0,.0)',
         rotationX:30, 
         transformOrigin:"50% bottom"

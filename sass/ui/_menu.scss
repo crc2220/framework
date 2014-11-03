@@ -1,0 +1,22 @@
+.ui_menu{
+	position: fixed;
+	left:-300px;
+	width:300px;
+	height: 100%;
+	list-style: none;
+	background: $blue;
+	padding: 0;
+	margin: 0;
+	z-index:$menu;
+	li{
+		width: 100%;
+		float: left;
+		padding: 25px 0;
+		text-align: center;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.33);
+		margin: 0;
+		a{
+			color: #fff;
+		}
+	}
+}
