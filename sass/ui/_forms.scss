@@ -1,11 +1,13 @@
-// bourbon - placeholder
-// input {
-//   width: 300px;
+/**************-bourbon_placeholder-  @include placeholder 
+ input {
+  width: 300px;
 
-//   @include placeholder {
-//     color: red;
-//   }
-// }
+   @include placeholder {
+    color: red;
+  }
+ }
+********************/
+
 //default
 fieldset{
 	border-radius: $border-radius;
