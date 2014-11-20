@@ -8,7 +8,7 @@ var gulp = require('gulp'),
     rename = require('gulp-rename'),
     notify = require('gulp-notify'),
     imagemin = require('gulp-imagemin'),
-    pngcrush = require('imagemin-pngcrush'),
+    pngquant = require('imagemin-pngquant'),
     svgSprite    = require('gulp-svg-sprites'),
     filter       = require('gulp-filter'),
     svg2png      = require('gulp-svg2png'),
@@ -68,7 +68,7 @@ gulp.task('img', function () {
         .pipe(imagemin({
             progressive: true,
             svgoPlugins: [{removeViewBox: false}],
-            use: [pngcrush()]
+            use: [pngquant()]
         }))
         .pipe(gulp.dest('img/'))
         .pipe(size())
