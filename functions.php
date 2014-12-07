@@ -4,7 +4,7 @@ define( 'THEMEROOT', get_template_directory_uri() );
 define( 'IMAGES', THEMEROOT . '/img' );
 define( 'STYLES', THEMEROOT . '/css' );
 define( 'SCRIPTS', THEMEROOT . '/js' );
-
+define( 'BOWER', THEMEROOT . '/js/lib' );
 
 
 //THEME SUPPORT//
