@@ -1,0 +1,793 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/footer.php",
+			"settings":
+			{
+				"buffer_size": 1856,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/functions.php",
+			"settings":
+			{
+				"buffer_size": 9128,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/front-page.php",
+			"settings":
+			{
+				"buffer_size": 9996,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_header.scss",
+			"settings":
+			{
+				"buffer_size": 1269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nFind++:\n------\n\n  # Find++\n  \n  Find functionality from Notepad++ for Sublime Text 2.\n  \n  ## Documentation\n  All commands are accessible via the Command Palette, `Ctrl + Shift + P` on Windows/Linux, `Command + Shift + P` on Mac.\n  \n  The available commands are:\n  \n  - `Find: In Current File` - Open `Find in Files` prompt with current file as target\n  - `Find: In Open Files` - Open `Find in Files` prompt with open files as targets\n  - `Find: In Project` - Open `Find in Files` prompt with project files and folder as targets\n  - `Find: In...` - Open panel to pick directory to open `Find in Files` with as its target\n  - `Find: Show Results Panel` - Reveals the Find Results panel\n  \n  When you search, the normal `Find in Files` search will be executed with one modification. The `Delete` and `Backspace` key will delete an entire row rather than a single character.\n  \n  ## License\n  Copyright (c) 2013 Todd Wolfson\n  \n  Licensed under the MIT license.\n  \n\n\nGulp:\n----\n\n     _____       _       \n    / ____|     | |      \n   | |  __ _   _| |_ __  \n   | | |_ | | | | | '_ \\ \n   | |__| | |_| | | |_) |\n    \\_____|\\__,_|_| .__/ \n                  | |    \n                  |_|    \n  \n  \n  Sorry to interrupt\n  ==================\n  \n  First of all, thanks for installing sublime-gulp!\n  \n  You can start using it now by choosing 'Gulp' from your command pallete or selecting one of the available snippets.\n  \n  If you want to know a bit more of what you can do with the package you can:\n  \n  * Check the package settings on Preference -> Package Settings -> Gulp -> Settings - Default\n  \n  * Take a look at the README at: https://github.com/NicoSantangelo/sublime-gulp \n  \n  \n  For issues or feature requests, head over to https://github.com/NicoSantangelo/sublime-gulp/issues\n  \n  Thanks again!\n",
+			"settings":
+			{
+				"buffer_size": 1849,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/js/ui/charts.js",
+			"settings":
+			{
+				"buffer_size": 2467,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/variables/_colors.scss",
+			"settings":
+			{
+				"buffer_size": 391,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_label.scss",
+			"settings":
+			{
+				"buffer_size": 762,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_front-page.scss",
+			"settings":
+			{
+				"buffer_size": 1440,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/base/_grid.scss",
+			"settings":
+			{
+				"buffer_size": 1927,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_third-party.scss",
+			"settings":
+			{
+				"buffer_size": 51,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_owl-carousel.scss",
+			"settings":
+			{
+				"buffer_size": 604,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/header.php",
+			"settings":
+			{
+				"buffer_size": 2632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/js/main.js",
+			"settings":
+			{
+				"buffer_size": 2396,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chriscarey/Documents/git_projects/chris",
+		"/Users/chriscarey/Documents/git_projects/chris/sass",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/base"
+	],
+	"file_history":
+	[
+		"/Users/chriscarey/Documents/git_projects/chris/node_modules/gulp-svg2png/node_modules/svg2png/node_modules/phantomjs/lib/phantom/examples/walk_through_frames.coffee",
+		"/Users/chriscarey/Documents/git_projects/chris/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/font-unicode-range.json",
+		"/Users/chriscarey/Documents/git_projects/chris/node_modules/bower/lib/core/resolvers/FsResolver.js",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_footer.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_header.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/functions.php",
+		"/Users/chriscarey/Library/Application Support/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/Users/chriscarey/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Users/chriscarey/Documents/git_projects/chris"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"twitter",
+			".menu",
+			"col-12",
+			"class=\"col col-12\"",
+			"css",
+			"src",
+			"90deg",
+			"gray",
+			"services",
+			"Scene",
+			"scene",
+			"illustrator",
+			"foreground",
+			"count",
+			"endPercent",
+			"\"",
+			"$menu",
+			"wrapper",
+			"data-section",
+			"href=\"",
+			"</a>",
+			"><a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2610,
+								2610
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 991.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/front-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1149,
+								1149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 2399.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1251,
+								1251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 347.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1849,
+								1849
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/js/ui/charts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/variables/_colors.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_label.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								730,
+								730
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_front-page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1440,
+								1440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 779.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/base/_grid.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1086,
+								1086
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 547.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_third-party.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_owl-carousel.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								604,
+								604
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1408,
+								1332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 4.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								540,
+								540
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "chris.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"frame",
+				"~/Documents/sublime_projects/framework.sublime-project"
+			],
+			[
+				"fra",
+				"~/Documents/sublime_projects/framework.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
