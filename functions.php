@@ -1,9 +1,9 @@
 <?php 
 //define constants//
-define( 'THEMEROOT', get_template_directory_uri() );
-define( 'IMAGES', THEMEROOT . '/img' );
-define( 'STYLES', THEMEROOT . '/css' );
-define( 'SCRIPTS', THEMEROOT . '/js' );
+define( 'ROOT', get_template_directory_uri() );
+define( 'IMG', THEMEROOT . '/img' );
+define( 'CSS', THEMEROOT . '/css' );
+define( 'JS', THEMEROOT . '/js' );
 define( 'BOWER', THEMEROOT . '/js/lib' );
 
 
