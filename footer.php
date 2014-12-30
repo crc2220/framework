@@ -1,7 +1,7 @@
 <?php get_sidebar('twitter'); ?>
 
 <?php echo date('Y'); ?>
-<a href="<?php home_url(); ?>"><?php bloginfo('name');?></a>
+<a href="<?php echo home_url(); ?>"><?php bloginfo('name');?></a>
 <?php _e('All rights reserved.', 'wmi'); ?>
 <!-- End Document -->
 
