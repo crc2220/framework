@@ -19,6 +19,12 @@ add_theme_support( 'post-formats',
     'audio'
     )
  );
+// add support for uploading svg files
+function mime_types($mimes){
+  $mimes['svg'] = 'image/svg+xml';
+  return $mimes;
+} 
+add_filter( 'upload_mimes', 'mime_types' );
 //add support for automatic feed links
 add_theme_support( 'automatic-feed-links' );
 //add support for post thumbnails
@@ -36,18 +42,17 @@ $lang_dir = THEMEROOT . '/languages';
 load_theme_textdomain( 'wmi', $lang_dir );
 
 
-
-//CSS JS//
 //css//
-// function load_css(){
-// 	wp_enqueue_style( 'style', THEMEROOT . '/style.css' );
-// }    
-// add_action('wp_enqueue_scripts', 'load_css' );
+function load_css(){
+	wp_enqueue_style( 'style', THEMEROOT . '/style.css' );
+}    
+add_action('wp_enqueue_scripts', 'load_css' );
+
 //js//
 function load_js() {
   wp_deregister_script('jquery');
 
-  wp_register_script('jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js", false, null);
+  wp_register_script('jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js", false, null);
   wp_register_script( 'touche', SCRIPTS . '/touche.min.js');
   wp_register_script( 'main', SCRIPTS . '/main.min.js');
 

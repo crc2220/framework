@@ -39,9 +39,6 @@
 	<link rel="shortcut icon" href="<?php echo $favicon; ?>">
 	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="<?php  echo $touch_icon; ?>">
 
-
-	<!-- main style -->
-	<link rel="stylesheet" href="<?php echo THEMEROOT; ?>/style.css">
 	
 	<link rel='stylesheet'  href='<?php echo STYLES; ?>/ie10.css' type='text/css' media='all' />
 
