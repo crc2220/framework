@@ -19,6 +19,12 @@ add_theme_support( 'post-formats',
     'audio'
     )
  );
+// add support for uploading svg files
+function mime_types($mimes){
+  $mimes['svg'] = 'image/svg+xml';
+  return $mimes;
+} 
+add_filter( 'upload_mimes', 'mime_types' );
 //add support for automatic feed links
 add_theme_support( 'automatic-feed-links' );
 //add support for post thumbnails
@@ -36,18 +42,17 @@ $lang_dir = THEMEROOT . '/languages';
 load_theme_textdomain( 'wmi', $lang_dir );
 
 
-
-//CSS JS//
 //css//
-// function load_css(){
-// 	wp_enqueue_style( 'style', THEMEROOT . '/style.css' );
-// }    
-// add_action('wp_enqueue_scripts', 'load_css' );
+function load_css(){
+	wp_enqueue_style( 'style', THEMEROOT . '/style.css' );
+}    
+add_action('wp_enqueue_scripts', 'load_css' );
+
 //js//
 function load_js() {
   wp_deregister_script('jquery');
 
-  wp_register_script('jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js", false, null);
+  wp_register_script('jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js", false, null);
   wp_register_script( 'touche', SCRIPTS . '/touche.min.js');
   wp_register_script( 'main', SCRIPTS . '/main.min.js');
 
@@ -156,7 +161,6 @@ function the_breadcrumb() {
 }
 
 
-
 //get categories related to current post in the loop 
 function the_category_unlinked($separator = ' ') {
     $categories = (array) get_the_category();
@@ -167,6 +171,7 @@ function the_category_unlinked($separator = ' ') {
   
     echo $thelist;
 }
+
 /* pagination */
 function wpbeginner_numeric_posts_nav() {
     if( is_singular() )
@@ -235,6 +240,21 @@ function isMobile(){
          return true;
      }
   }
+}
+
+//data uri 
+function get_data_uri($file) {
+
+    $contents = file_get_contents($file);
+    $base64 = base64_encode($contents);
+    $imagetype = exif_imagetype($file);
+    $mime = image_type_to_mime_type($imagetype);
+  
+    return "data:$mime;base64,$base64";
+}
+
+function data_uri($file) {
+    return get_data_uri($file);
 }
 
 //ADMIN VIEW//
