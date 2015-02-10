@@ -1,10 +1,10 @@
 <?php 
 //define constants//
 define( 'ROOT', get_template_directory_uri() );
-define( 'IMG', THEMEROOT . '/img' );
-define( 'CSS', THEMEROOT . '/css' );
-define( 'JS', THEMEROOT . '/js' );
-define( 'BOWER', THEMEROOT . '/js/lib' );
+define( 'IMG', ROOT . '/img' );
+define( 'CSS', ROOT . '/css' );
+define( 'JS', ROOT . '/js' );
+define( 'BOWER', ROOT . '/js/lib' );
 
 
 //THEME SUPPORT//
@@ -38,13 +38,13 @@ register_nav_menus(
   )
 );
 //make theme available for translation//
-$lang_dir = THEMEROOT . '/languages';
+$lang_dir = ROOT . '/languages';
 load_theme_textdomain( 'wmi', $lang_dir );
 
 
 //css//
 function load_css(){
-	wp_enqueue_style( 'style', THEMEROOT . '/style.css' );
+	wp_enqueue_style( 'style', ROOT . '/style.css' );
 }    
 add_action('wp_enqueue_scripts', 'load_css' );
 
