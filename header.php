@@ -1,6 +1,6 @@
 <?php 
-	$favicon = IMAGES . '/icons/favicon.png';
-	$touch_icon = IMAGES . '/icons/apple-touch-icon-152x152-precomposed.png';
+	$favicon = IMG . '/icons/favicon.png';
+	$touch_icon = IMG . '/icons/apple-touch-icon-152x152-precomposed.png';
 ?>
 
 <!DOCTYPE html>
@@ -40,16 +40,16 @@
 	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="<?php  echo $touch_icon; ?>">
 
 	
-	<link rel='stylesheet'  href='<?php echo STYLES; ?>/ie10.css' type='text/css' media='all' />
+	<link rel='stylesheet'  href='<?php echo CSS; ?>/ie10.css' type='text/css' media='all' />
 
 	<!--[if lt IE 10]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-		<link rel='stylesheet'  href='<?php echo STYLES; ?>/ie9.css' type='text/css' media='all' />
+		<link rel='stylesheet'  href='<?php echo CSS; ?>/ie9.css' type='text/css' media='all' />
 	<![endif]-->
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-		<link rel='stylesheet'  href='<?php echo STYLES; ?>/ie8.css' type='text/css' media='all' />
+		<link rel='stylesheet'  href='<?php echo CSS; ?>/ie8.css' type='text/css' media='all' />
 	<![endif]-->
 
 
