@@ -53,8 +53,8 @@ function load_js() {
   wp_deregister_script('jquery');
 
   wp_register_script('jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js", false, null);
-  wp_register_script( 'touche', SCRIPTS . '/touche.min.js');
-  wp_register_script( 'main', SCRIPTS . '/main.min.js');
+  wp_register_script( 'touche', JS . '/touche.min.js');
+  wp_register_script( 'main', JS . '/main.min.js');
 
 
   wp_enqueue_script('jquery');
@@ -260,7 +260,7 @@ function data_uri($file) {
 //ADMIN VIEW//
 // add a favicon for your admin
 function admin_favicon() {
-	echo '<link rel="icon" type="image/ico" href="'. IMAGES .'/icons/favicon-admin.ico" />';
+	echo '<link rel="icon" type="image/ico" href="'. IMG .'/icons/favicon-admin.ico" />';
 }
 add_action('admin_head', 'admin_favicon');
 // custom admin login logo
