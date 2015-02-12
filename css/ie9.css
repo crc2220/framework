@@ -45,27 +45,3 @@
 .col-12 {
   width: 100%;
 }
-.main-menu{
-  display: none !important;
-}
-.content{
-  border-bottom: 0;
-}
-.address, .contact{
-  width: 50%;
-}
-.contact{
-  border-right:0;
-}
-.contact li{
-  float: right;
-}
-.inner-title{
-  position: relative;
-  margin-top: 13%;
-}
-
-/*tabs*/
-.ui_tabs{
-  
-}
