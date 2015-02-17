@@ -42,12 +42,6 @@ $lang_dir = ROOT . '/languages';
 load_theme_textdomain( 'wmi', $lang_dir );
 
 
-//css//
-function load_css(){
-	wp_enqueue_style( 'style', ROOT . '/style.css' );
-}    
-add_action('wp_enqueue_scripts', 'load_css' );
-
 //js//
 function load_js() {
   wp_deregister_script('jquery');
