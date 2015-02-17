@@ -48,6 +48,7 @@ function load_js() {
 
   wp_register_script('jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js", false, null);
   wp_register_script( 'touche', JS . '/touche.min.js');
+  wp_register_script( 'touche', BOWER . '/greensock/src/minified/TweenMax.min.js');
   wp_register_script( 'main', JS . '/main.min.js');
 
 
