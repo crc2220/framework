@@ -6,7 +6,7 @@ jQuery(document).ready(function($) {
 	$.fn.isBefore= function(sel){
 	  return this.nextAll(sel).length !== 0;
 	}
- 	
+
  	// get window and window height(on resize)
  	var $window = $(window);
 	var $winWidth = $(window).width();
@@ -22,6 +22,8 @@ jQuery(document).ready(function($) {
 	} else {
 	  $("body").addClass("pc");
 	}
+
+	
 
     Tabs();
     Modals();
