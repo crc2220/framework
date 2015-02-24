@@ -1,5 +1,12 @@
 jQuery(document).ready(function($) {
  	
+	$.fn.isAfter = function(sel){
+	  return this.prevAll(sel).length !== 0;
+	}
+	$.fn.isBefore= function(sel){
+	  return this.nextAll(sel).length !== 0;
+	}
+ 	
  	// get window and window height(on resize)
  	var $window = $(window);
 	var $winWidth = $(window).width();
