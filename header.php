@@ -33,7 +33,7 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	
-	<title><?php wp_title(' | ', true, 'right'); bloginfo('name'); ?></title>
+	<title><?php wp_title(' | ', true, 'right'); ?></title>
 
 	<!-- favicons and apple icons -->
 	<link rel="shortcut icon" href="<?php echo $favicon; ?>">
