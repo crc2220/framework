@@ -257,10 +257,34 @@ function data_uri($file) {
 
 //ADMIN VIEW//
 // add a favicon for your admin
-function admin_favicon() {
-	echo '<link rel="icon" type="image/ico" href="'. IMG .'/icons/favicon-admin.ico" />';
+function custom_login_logo() {
+  echo '<style type="text/css">
+  .login h1 a { 
+    background-image: url('.get_bloginfo('template_directory').'/img/admin.png) !important; 
+    -webkit-background-size: 100% !important;
+    background-size: 100% !important;
+    background-position: center top;
+    background-repeat: no-repeat;
+    color: #999;
+    height: 100px;
+    margin: 0 auto 0px;
+    padding: 0;
+    text-decoration: none;
+    width: 100%;
+    text-indent: -9999px;
+    outline: 0;
+    overflow: hidden;
+    display: block;
+  }
+  .login form {
+    margin-top: 0 !important;
+  }
+  #login .button-primary {
+    background: #00A5F4;
+  }
+  </style>';
 }
-add_action('admin_head', 'admin_favicon');
+add_action('login_head', 'custom_login_logo');
 // custom admin login logo
 function custom_login_logo() {
 	echo '<style type="text/css">

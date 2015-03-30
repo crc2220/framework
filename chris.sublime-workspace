@@ -8,74 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/footer.php",
-			"settings":
-			{
-				"buffer_size": 1778,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_btn.scss",
-			"settings":
-			{
-				"buffer_size": 1005,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/front-page.php",
-			"settings":
-			{
-				"buffer_size": 11438,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_inner.scss",
-			"settings":
-			{
-				"buffer_size": 123,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/js/main.js",
-			"settings":
-			{
-				"buffer_size": 5055,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/page-work.php",
-			"settings":
-			{
-				"buffer_size": 2491,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/page.php",
-			"settings":
-			{
-				"buffer_size": 726,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_footer.scss",
-			"settings":
-			{
-				"buffer_size": 1521,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/Users/chriscarey/Documents/git_projects/chris/single-work.php",
 			"settings":
 			{
-				"buffer_size": 2858,
+				"buffer_size": 3133,
 				"line_ending": "Unix"
 			}
 		},
@@ -83,71 +19,31 @@
 			"file": "/Users/chriscarey/Documents/git_projects/chris/index.php",
 			"settings":
 			{
-				"buffer_size": 726,
+				"buffer_size": 739,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/home.php",
+			"file": "/Users/chriscarey/Documents/git_projects/chris/page-work.php",
 			"settings":
 			{
-				"buffer_size": 726,
+				"buffer_size": 2503,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/header.php",
+			"file": "/Users/chriscarey/Documents/git_projects/chris/page.php",
 			"settings":
 			{
-				"buffer_size": 2012,
+				"buffer_size": 739,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/base/_typography.scss",
+			"file": "/Users/chriscarey/Documents/git_projects/chris/front-page.php",
 			"settings":
 			{
-				"buffer_size": 1108,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_list.scss",
-			"settings":
-			{
-				"buffer_size": 136,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_front-page.scss",
-			"settings":
-			{
-				"buffer_size": 2960,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/functions.php",
-			"settings":
-			{
-				"buffer_size": 9450,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_label.scss",
-			"settings":
-			{
-				"buffer_size": 659,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_owl-carousel.scss",
-			"settings":
-			{
-				"buffer_size": 685,
+				"buffer_size": 11490,
 				"line_ending": "Unix"
 			}
 		},
@@ -155,23 +51,20 @@
 			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_single-work.scss",
 			"settings":
 			{
-				"buffer_size": 206,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_header.scss",
-			"settings":
-			{
-				"buffer_size": 1299,
+				"buffer_size": 786,
 				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 400.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -233,45 +126,46 @@
 	"expanded_folders":
 	[
 		"/Users/chriscarey/Documents/git_projects/chris",
-		"/Users/chriscarey/Documents/git_projects/chris/js",
-		"/Users/chriscarey/Documents/git_projects/chris/js/lib",
 		"/Users/chriscarey/Documents/git_projects/chris/sass",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/pages"
 	],
 	"file_history":
 	[
+		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_header.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_single-work.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_owl-carousel.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/ui/_label.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/functions.php",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_front-page.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/ui/_list.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/base/_typography.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/header.php",
+		"/Users/chriscarey/Documents/git_projects/chris/home.php",
+		"/Users/chriscarey/Documents/git_projects/chris/index.php",
+		"/Users/chriscarey/Documents/git_projects/chris/single-work.php",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_footer.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/page.php",
 		"/Users/chriscarey/Documents/git_projects/chris/page-work.php",
+		"/Users/chriscarey/Documents/git_projects/chris/js/main.js",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_inner.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/front-page.php",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/ui/_btn.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/footer.php",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_mixitup.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_third-party.scss",
-		"/Users/chriscarey/Documents/git_projects/chris/single-work.php",
-		"/Users/chriscarey/Documents/git_projects/chris/footer.php",
 		"/Users/chriscarey/Documents/git_projects/chris/.htaccess",
-		"/Users/chriscarey/Documents/git_projects/chris/index.php",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/base/_grid.scss",
-		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_single-work.scss",
-		"/Users/chriscarey/Documents/git_projects/chris/js/main.js",
-		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_header.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_work.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_pages.scss",
-		"/Users/chriscarey/Documents/git_projects/chris/sass/ui/_btn.scss",
-		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_front-page.scss",
-		"/Users/chriscarey/Documents/git_projects/chris/home.php",
-		"/Users/chriscarey/Documents/git_projects/chris/page.php",
-		"/Users/chriscarey/Documents/git_projects/chris/sass/ui/_label.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/style.scss",
-		"/Users/chriscarey/Documents/git_projects/chris/header.php",
 		"/Users/chriscarey/Library/Application Support/Sublime Text 3/Packages/User/cp.sublime-snippet",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/ui/_tabs.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/ui/_icon.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/js/ui/tabs.js",
 		"/Users/chriscarey/Documents/git_projects/chris/js/ui/bubbles.js",
-		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_footer.scss",
-		"/Users/chriscarey/Documents/git_projects/chris/front-page.php",
 		"/Users/chriscarey/Library/Application Support/Sublime Text 3/Packages/User/cp",
-		"/Users/chriscarey/Documents/git_projects/chris/functions.php",
 		"/Users/chriscarey/Documents/git_projects/chris/js/ui/charts.js",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/variables/_colors.scss",
-		"/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_owl-carousel.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/node_modules/gulp-svg2png/node_modules/svg2png/node_modules/phantomjs/lib/phantom/examples/walk_through_frames.coffee",
 		"/Users/chriscarey/Documents/git_projects/chris/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/font-unicode-range.json",
 		"/Users/chriscarey/Documents/git_projects/chris/node_modules/bower/lib/core/resolvers/FsResolver.js",
@@ -280,7 +174,7 @@
 	],
 	"find":
 	{
-		"height": 43.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -295,6 +189,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"= TweenMax.to",
 			"col-8",
 			"<li>",
 			"=>",
@@ -345,24 +240,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/footer.php",
+					"file": "/Users/chriscarey/Documents/git_projects/chris/single-work.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1778,
+						"buffer_size": 3133,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1523,
-								1523
+								587,
+								587
 							]
 						],
 						"settings":
@@ -373,232 +268,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 14.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_btn.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1005,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								313,
-								293
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 19,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/front-page.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11438,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1611,
-								1611
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 469.0,
+						"translation.y": 155.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_inner.scss",
+					"buffer": 1,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 123,
+						"buffer_size": 739,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								118,
-								118
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Seti_UI/Prefs/Langs/SCSS.tmLanguage"
-						},
-						"translation.x": 32.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/js/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5055,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 484.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/page-work.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2491,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								52,
-								52
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/page.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 726,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								52,
-								52
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_footer.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1521,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1042,
-								1042
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 229.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/single-work.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2858,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								837,
-								837
+								575,
+								575
 							]
 						],
 						"settings":
@@ -609,336 +299,131 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 115.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/index.php",
+					"buffer": 2,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/page-work.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 726,
+						"buffer_size": 2503,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								52,
-								52
+								574,
+								574
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/home.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 726,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								52,
-								52
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/header.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2012,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2012,
-								2012
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 173.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/base/_typography.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1108,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1085,
-								1085
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 404.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_list.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 136,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								125,
-								125
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_front-page.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2960,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								717,
-								717
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 616.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/functions.php",
+					"buffer": 3,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/page.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9450,
+						"buffer_size": 739,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8071,
-								8071
+								575,
+								575
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 3780.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/front-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								449,
+								580
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 16,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_label.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 659,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_owl-carousel.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 685,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								654,
-								654
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
+					"buffer": 5,
 					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_single-work.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 206,
+						"buffer_size": 786,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								105,
-								105
+								582,
+								582
 							]
 						],
 						"settings":
 						{
 							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 244.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_header.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1299,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								313,
-								313
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -979,6 +464,7 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "",
 	"project": "chris.sublime-project",
 	"replace":
 	{
@@ -988,6 +474,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -996,8 +483,13 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "axim",
 		"selected_items":
 		[
+			[
+				"axim",
+				"~/Documents/sublime_projects/axim.sublime-project"
+			],
 			[
 				"cov",
 				"~/Documents/sublime_projects/covailnt.sublime-project"
@@ -1024,6 +516,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
