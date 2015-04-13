@@ -42,6 +42,7 @@
 	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 	<link rel='stylesheet'  href='<?php echo ROOT; ?>/style.css' type='text/css' media='all' />
 	<link rel='stylesheet'  href='<?php echo CSS; ?>/ie10.css' type='text/css' media='all' />
+	<link rel='stylesheet'  href='<?php echo CSS; ?>/ie11.css' type='text/css' media='all' />
 
 	<!--[if lt IE 10]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
