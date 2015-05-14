@@ -39,7 +39,6 @@
   }
 	.row{
 		flex: 1 1 auto;
-		margin-top: -0.5em;
     @if $animatedGrid == true{
       @include transition (all $animatedGridSpeed ease-in-out);
     }
