@@ -1,5 +1,5 @@
 <?php 
-	$favicon = IMG . '/icons/favicon.png';
+	$favicon = IMG . '/favicon.png';
 	$touch_icon = IMG . '/icons/apple-touch-icon-152x152-precomposed.png';
 ?>
 
