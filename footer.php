@@ -1,4 +1,4 @@
-<?php dynamic_sidebar('twitter'); ?>
+<!-- <?php dynamic_sidebar('twitter'); ?> -->
 
 <?php echo date('Y'); ?>
 <a href="<?php echo home_url(); ?>"><?php bloginfo('name');?></a>
