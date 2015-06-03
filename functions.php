@@ -6,6 +6,8 @@ define( 'CSS', ROOT . '/css' );
 define( 'JS', ROOT . '/js' );
 define( 'BOWER', ROOT . '/js/lib' );
 
+define( 'SITE', get_site_url() );
+
 
 //THEME SUPPORT//
 //add support for different post formats
