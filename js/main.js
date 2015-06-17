@@ -23,6 +23,30 @@ jQuery(document).ready(function($) {
 	  $("body").addClass("pc");
 	}
 
+	var eventType =((document.ontouchstart!==null)?'click':'touchstart');
+
+	function ie_ver(){  
+	    var iev=0;
+	    var ieold = (/MSIE (\d+\.\d+);/.test(navigator.userAgent));
+	    var trident = !!navigator.userAgent.match(/Trident\/7.0/);
+	    var rv=navigator.userAgent.indexOf("rv:11.0");
+
+	    if (ieold) iev=new Number(RegExp.$1);
+	    if (navigator.appVersion.indexOf("MSIE 10") != -1) iev=10;
+	    if (trident&&rv!=-1) iev=11;
+
+	    return iev;         
+	}
+
+	function msieversion() {    
+	    var msie = ie_ver();
+	    if (msie != 0)      
+	          $('a, hr').addClass('ie');    
+	    else     
+	    return false;
+	}
+
+	msieversion();
 	
 
     Tabs();

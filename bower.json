@@ -17,7 +17,8 @@
   "dependencies": {
     "jquery": "1.11",
     "greensock": "~1.14.2",
-    "jquery-placeholder": "~2.1.1"
+    "jquery-placeholder": "~2.1.1",
+    "history.js": "~1.8.0"
   },
   "devDependencies": {}
 }
