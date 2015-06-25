@@ -33,6 +33,8 @@ add_theme_support( 'automatic-feed-links' );
 add_theme_support( 'post-thumbnails' );
 //add support for menus
 add_theme_support('menus');
+//wordpress's html5 search form
+add_theme_support( 'html5', array( 'search-form' ) );
 //register nav menus
 register_nav_menus(
   array(
@@ -316,5 +318,16 @@ add_filter('manage_edit-page_columns',   'custom_set_pages_columns');
 add_action('manage_pages_custom_column', 'custom_set_pages_columns_page_id', 10, 2);
 add_action('admin_head',                 'custom_admin_styling');
 
+add_filter( 'manage_posts_columns', 'revealid_add_id_column', 5 );
+add_action( 'manage_posts_custom_column', 'revealid_id_column_content', 5, 2 );
+function revealid_add_id_column( $columns ) {
+$columns['revealid_id'] = 'ID';
+return $columns;
+}
+function revealid_id_column_content( $column, $id ) {
+if( 'revealid_id' == $column ) {
+echo $id;
+}
+}
 
 ?>
