@@ -8,34 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/single-work.php",
+			"file": "/Users/chriscarey/Documents/git_projects/chris/header.php",
 			"settings":
 			{
-				"buffer_size": 3133,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/index.php",
-			"settings":
-			{
-				"buffer_size": 739,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/page-work.php",
-			"settings":
-			{
-				"buffer_size": 2503,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/page.php",
-			"settings":
-			{
-				"buffer_size": 739,
+				"buffer_size": 2092,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +19,98 @@
 			"file": "/Users/chriscarey/Documents/git_projects/chris/front-page.php",
 			"settings":
 			{
-				"buffer_size": 11490,
+				"buffer_size": 11377,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 1818,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_icon.scss",
+			"settings":
+			{
+				"buffer_size": 1188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_tabs.scss",
+			"settings":
+			{
+				"buffer_size": 398,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_header.scss",
+			"settings":
+			{
+				"buffer_size": 1693,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_home.scss",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_inner.scss",
+			"settings":
+			{
+				"buffer_size": 240,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_btn.scss",
+			"settings":
+			{
+				"buffer_size": 1614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_front-page.scss",
+			"settings":
+			{
+				"buffer_size": 3186,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "s@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,900);@import url(http://fast.fonts.net/cssapi/b3870c48-f4de-45f6-a30b-0fcbead59274.css);html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background:0 0}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:700}dfn{font-style:italic}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]{-webkit-appearance:textfield;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:700}table{border-collapse:collapse;border-spacing:0}.cf:after,.cf:before{content:\" \";display:table}.cf:after{clear:both}.container{max-width:1180px;margin:0 auto}.container .row{margin:0 auto}.row{display:-webkit-box;display:box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-align:stretch;box-align:stretch;-webkit-align-items:stretch;-moz-align-items:stretch;-ms-align-items:stretch;-o-align-items:stretch;align-items:stretch;-ms-flex-align:stretch;-webkit-box-orient:horizontal;box-orient:horizontal;-webkit-flex-direction:row;-moz-flex-direction:row;flex-direction:row;-ms-flex-direction:row;-webkit-box-pack:start;box-pack:start;-webkit-justify-content:flex-start;-moz-justify-content:flex-start;-ms-justify-content:flex-start;-o-justify-content:flex-start;justify-content:flex-start;-ms-flex-pack:start;-webkit-box-lines:multiple;-moz-box-lines:multiple;box-lines:multiple;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;margin:0 auto;width:100%;max-width:100%;padding:10px}.row .row{-webkit-box-flex:1;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;margin-top:-.5em}.row.wide{margin-left:-10px;margin-right:-10px}.row.center{-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}.row.center .col{-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0}.col{-webkit-box-flex:1;-webkit-flex:1 1 8%;-ms-flex:1 1 8%;flex:1 1 8%;margin:0 0 .5rem;padding:.5em 1px;box-sizing:border-box;position:relative}.col-1{-webkit-flex-basis:8.3333%;-ms-flex-preferred-size:8.3333%;flex-basis:8.3333%}.col-2{-webkit-flex-basis:16.6666%;-ms-flex-preferred-size:16.6666%;flex-basis:16.6666%}.col-3{-webkit-flex-basis:25%;-ms-flex-preferred-size:25%;flex-basis:25%}.col-4{-webkit-flex-basis:33.3333%;-ms-flex-preferred-size:33.3333%;flex-basis:33.3333%}.col-5{-webkit-flex-basis:41.6666%;-ms-flex-preferred-size:41.6666%;flex-basis:41.6666%}.col-6{-webkit-flex-basis:50%;-ms-flex-preferred-size:50%;flex-basis:50%}.col-7{-webkit-flex-basis:58.3333%;-ms-flex-preferred-size:58.3333%;flex-basis:58.3333%}.col-8{-webkit-flex-basis:66.6666%;-ms-flex-preferred-size:66.6666%;flex-basis:66.6666%}.col-9{-webkit-flex-basis:75%;-ms-flex-preferred-size:75%;flex-basis:75%}.col-10{-webkit-flex-basis:83.3333%;-ms-flex-preferred-size:83.3333%;flex-basis:83.3333%}.col-11{-webkit-flex-basis:91.6666%;-ms-flex-preferred-size:91.6666%;flex-basis:91.6666%}.col-12{-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%}@media (max-width:1024px){.col-1,.col-2,.col-3,.col-4,.col-5{-webkit-flex-basis:33%;-ms-flex-preferred-size:33%;flex-basis:33%}.col-10,.col-11,.col-6,.col-7,.col-8,.col-9,.row .row .col{-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%}}@media (max-width:600px){.col-1,.col-2,.col-3,.col-4,.col-5{-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%}}body{background:url(img/bg-pattern.png)}*{box-sizing:border-box}body{-webkit-font-smoothing:antialiased;color:#f2f1f7;font-family:'Proxima Nova Soft W03 Reg',Georgia,serif;font-size:.625em}h1,h2,h3,h4,h5,h6{font-family:'Hansom FY W01 Bold',Arial,Helvetica,sans-serif;line-height:1.2em;text-rendering:optimizeLegibility;width:100%;float:left}h1{font-size:3.6em;margin:.6em 0}h2{font-size:3.2em;margin:.5em 0}h3{font-size:2.8em;margin:.4em 0}h4{font-size:2.4em;margin:.3em 0}h5{font-size:2em;margin:.2em 0}h6{font-size:1.6em;text-decoration:uppercase;margin:.1em 0}p{font-size:1.6em;margin:0 0 .46875em;padding-left:15px}a{-webkit-transition:color .1s linear;transition:color .1s linear;color:#cee2ff;text-decoration:none;word-wrap:break-word}a:hover{color:#82b5ff}a:active,a:focus{color:#82b5ff;outline:0}li{font-size:1.6em}img{margin:0;max-width:100%}@-webkit-keyframes fadeIn{0%{opacity:0}100%{opacity:1}}@-ms-keyframes fadeIn{0%{opacity:0}100%{opacity:1}}@keyframes fadeIn{0%{opacity:0}100%{opacity:1}}@-webkit-keyframes fadeInDown{0%{opacity:0;-webkit-transform:translateY(-20px)}100%{opacity:1;-webkit-transform:translateY(0)}}@-ms-keyframes fadeInDown{0%{opacity:0;-webkit-transform:translateY(-20px)}100%{opacity:1;-webkit-transform:translateY(0)}}@keyframes fadeInDown{0%{opacity:0;-webkit-transform:translateY(-20px)}100%{opacity:1;-webkit-transform:translateY(0)}}@-webkit-keyframes fadeInDownBig{0%{opacity:0;-webkit-transform:translateY(-2000px)}100%{opacity:1;-webkit-transform:translateY(0)}}@-ms-keyframes fadeInDownBig{0%{opacity:0;-webkit-transform:translateY(-2000px)}100%{opacity:1;-webkit-transform:translateY(0)}}@keyframes fadeInDownBig{0%{opacity:0;-webkit-transform:translateY(-2000px)}100%{opacity:1;-webkit-transform:translateY(0)}}@-webkit-keyframes fadeInLeft{0%{opacity:0;-webkit-transform:translateX(-20px)}100%{opacity:1;-webkit-transform:translateX(0)}}@-ms-keyframes fadeInLeft{0%{opacity:0;-webkit-transform:translateX(-20px)}100%{opacity:1;-webkit-transform:translateX(0)}}@keyframes fadeInLeft{0%{opacity:0;-webkit-transform:translateX(-20px)}100%{opacity:1;-webkit-transform:translateX(0)}}@-webkit-keyframes fadeInLeftBig{0%{opacity:0;-webkit-transform:translateX(-2000px);transform:translateX(-2000px)}100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-ms-keyframes fadeInLeftBig{0%{opacity:0;-ms-transform:translateX(-2000px);transform:translateX(-2000px)}100%{opacity:1;-ms-transform:translateX(0);transform:translateX(0)}}@keyframes fadeInLeftBig{0%{opacity:0;-webkit-transform:translateX(-2000px);transform:translateX(-2000px)}100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-webkit-keyframes fadeInRight{0%{opacity:0;-webkit-transform:translateX(20px);transform:translateX(20px)}100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-ms-keyframes fadeInRight{0%{opacity:0;-ms-transform:translateX(20px);transform:translateX(20px)}100%{opacity:1;-ms-transform:translateX(0);transform:translateX(0)}}@keyframes fadeInRight{0%{opacity:0;-webkit-transform:translateX(20px);transform:translateX(20px)}100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-webkit-keyframes fadeInRightBig{0%{opacity:0;-webkit-transform:translateX(2000px);transform:translateX(2000px)}100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-ms-keyframes fadeInRightBig{0%{opacity:0;-ms-transform:translateX(2000px);transform:translateX(2000px)}100%{opacity:1;-ms-transform:translateX(0);transform:translateX(0)}}@keyframes fadeInRightBig{0%{opacity:0;-webkit-transform:translateX(2000px);transform:translateX(2000px)}100%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-webkit-keyframes fadeInUp{0%{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@-ms-keyframes fadeInUp{0%{opacity:0;-ms-transform:translateY(20px);transform:translateY(20px)}100%{opacity:1;-ms-transform:translateY(0);transform:translateY(0)}}@keyframes fadeInUp{0%{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes fadeInUpBig{0%{opacity:0;-webkit-transform:translateY(2000px);transform:translateY(2000px)}100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@-ms-keyframes fadeInUpBig{0%{opacity:0;-ms-transform:translateY(2000px);transform:translateY(2000px)}100%{opacity:1;-ms-transform:translateY(0);transform:translateY(0)}}@keyframes fadeInUpBig{0%{opacity:0;-webkit-transform:translateY(2000px);transform:translateY(2000px)}100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes fadeOut{0%{opacity:1}100%{opacity:0}}@-ms-keyframes fadeOut{0%{opacity:1}100%{opacity:0}}@keyframes fadeOut{0%{opacity:1}100%{opacity:0}}@-webkit-keyframes fadeOutDown{0%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}}@-ms-keyframes fadeOutDown{0%{opacity:1;-ms-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-ms-transform:translateY(20px);transform:translateY(20px)}}@keyframes fadeOutDown{0%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}}@-webkit-keyframes fadeOutDownBig{0%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-webkit-transform:translateY(2000px);transform:translateY(2000px)}}@-ms-keyframes fadeOutDownBig{0%{opacity:1;-ms-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-ms-transform:translateY(2000px);transform:translateY(2000px)}}@keyframes fadeOutDownBig{0%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-webkit-transform:translateY(2000px);transform:translateY(2000px)}}@-webkit-keyframes fadeOutLeft{0%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-webkit-transform:translateX(-20px);transform:translateX(-20px)}}@-ms-keyframes fadeOutLeft{0%{opacity:1;-ms-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-ms-transform:translateX(-20px);transform:translateX(-20px)}}@keyframes fadeOutLeft{0%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-webkit-transform:translateX(-20px);transform:translateX(-20px)}}@-webkit-keyframes fadeOutLeftBig{0%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-webkit-transform:translateX(-2000px);transform:translateX(-2000px)}}@-ms-keyframes fadeOutLeftBig{0%{opacity:1;-ms-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-ms-transform:translateX(-2000px);transform:translateX(-2000px)}}@keyframes fadeOutLeftBig{0%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-webkit-transform:translateX(-2000px);transform:translateX(-2000px)}}@-webkit-keyframes fadeOutRight{0%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-webkit-transform:translateX(20px);transform:translateX(20px)}}@-ms-keyframes fadeOutRight{0%{opacity:1;-ms-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-ms-transform:translateX(20px);transform:translateX(20px)}}@keyframes fadeOutRight{0%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-webkit-transform:translateX(20px);transform:translateX(20px)}}@-webkit-keyframes fadeOutRightBig{0%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-webkit-transform:translateX(2000px);transform:translateX(2000px)}}@-ms-keyframes fadeOutRightBig{0%{opacity:1;-ms-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-ms-transform:translateX(2000px);transform:translateX(2000px)}}@keyframes fadeOutRightBig{0%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}100%{opacity:0;-webkit-transform:translateX(2000px);transform:translateX(2000px)}}@-webkit-keyframes fadeOutUp{0%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-webkit-transform:translateY(-20px);transform:translateY(-20px)}}@-ms-keyframes fadeOutUp{0%{opacity:1;-ms-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-ms-transform:translateY(-20px);transform:translateY(-20px)}}@keyframes fadeOutUp{0%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-webkit-transform:translateY(-20px);transform:translateY(-20px)}}@-webkit-keyframes fadeOutUpBig{0%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-webkit-transform:translateY(-2000px);transform:translateY(-2000px)}}@-ms-keyframes fadeOutUpBig{0%{opacity:1;-ms-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-ms-transform:translateY(-2000px);transform:translateY(-2000px)}}@keyframes fadeOutUpBig{0%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}100%{opacity:0;-webkit-transform:translateY(-2000px);transform:translateY(-2000px)}}@-webkit-keyframes flip{0%{-webkit-transform:perspective(400px) rotateY(0);transform:perspective(400px) rotateY(0);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}40%{-webkit-transform:perspective(400px) translateZ(150px) rotateY(170deg);transform:perspective(400px) translateZ(150px) rotateY(170deg);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}50%{-webkit-transform:perspective(400px) translateZ(150px) rotateY(190deg) scale(1);transform:perspective(400px) translateZ(150px) rotateY(190deg) scale(1);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}80%{-webkit-transform:perspective(400px) rotateY(360deg) scale(0.95);transform:perspective(400px) rotateY(360deg) scale(0.95);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}100%{-webkit-transform:perspective(400px) scale(1);transform:perspective(400px) scale(1);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}}@-ms-keyframes flip{0%{transform:perspective(400px) rotateY(0);animation-timing-function:ease-out}40%{transform:perspective(400px) translateZ(150px) rotateY(170deg);animation-timing-function:ease-out}50%{transform:perspective(400px) translateZ(150px) rotateY(190deg) scale(1);animation-timing-function:ease-in}80%{transform:perspective(400px) rotateY(360deg) scale(0.95);animation-timing-function:ease-in}100%{transform:perspective(400px) scale(1);animation-timing-function:ease-in}}@keyframes flip{0%{-webkit-transform:perspective(400px) rotateY(0);transform:perspective(400px) rotateY(0);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}40%{-webkit-transform:perspective(400px) translateZ(150px) rotateY(170deg);transform:perspective(400px) translateZ(150px) rotateY(170deg);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}50%{-webkit-transform:perspective(400px) translateZ(150px) rotateY(190deg) scale(1);transform:perspective(400px) translateZ(150px) rotateY(190deg) scale(1);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}80%{-webkit-transform:perspective(400px) rotateY(360deg) scale(0.95);transform:perspective(400px) rotateY(360deg) scale(0.95);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}100%{-webkit-transform:perspective(400px) scale(1);transform:perspective(400px) scale(1);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}}@-webkit-keyframes flipInX{0%{-webkit-transform:perspective(400px) rotateX(90deg);transform:perspective(400px) rotateX(90deg);opacity:0}40%{-webkit-transform:perspective(400px) rotateX(-10deg);transform:perspective(400px) rotateX(-10deg)}70%{-webkit-transform:perspective(400px) rotateX(10deg);transform:perspective(400px) rotateX(10deg)}100%{-webkit-transform:perspective(400px) rotateX(0deg);transform:perspective(400px) rotateX(0deg);opacity:1}}@-ms-keyframes flipInX{0%{transform:perspective(400px) rotateX(90deg);opacity:0}40%{transform:perspective(400px) rotateX(-10deg)}70%{transform:perspective(400px) rotateX(10deg)}100%{transform:perspective(400px) rotateX(0deg);opacity:1}}@keyframes flipInX{0%{-webkit-transform:perspective(400px) rotateX(90deg);transform:perspective(400px) rotateX(90deg);opacity:0}40%{-webkit-transform:perspective(400px) rotateX(-10deg);transform:perspective(400px) rotateX(-10deg)}70%{-webkit-transform:perspective(400px) rotateX(10deg);transform:perspective(400px) rotateX(10deg)}100%{-webkit-transform:perspective(400px) rotateX(0deg);transform:perspective(400px) rotateX(0deg);opacity:1}}@-webkit-keyframes flipInY{0%{-webkit-transform:perspective(400px) rotateY(90deg);transform:perspective(400px) rotateY(90deg);opacity:0}40%{-webkit-transform:perspective(400px) rotateY(-10deg);transform:perspective(400px) rotateY(-10deg)}70%{-webkit-transform:perspective(400px) rotateY(10deg);transform:perspective(400px) rotateY(10deg)}100%{-webkit-transform:perspective(400px) rotateY(0deg);transform:perspective(400px) rotateY(0deg);opacity:1}}@-ms-keyframes flipInY{0%{transform:perspective(400px) rotateY(90deg);opacity:0}40%{transform:perspective(400px) rotateY(-10deg)}70%{transform:perspective(400px) rotateY(10deg)}100%{transform:perspective(400px) rotateY(0deg);opacity:1}}@keyframes flipInY{0%{-webkit-transform:perspective(400px) rotateY(90deg);transform:perspective(400px) rotateY(90deg);opacity:0}40%{-webkit-transform:perspective(400px) rotateY(-10deg);transform:perspective(400px) rotateY(-10deg)}70%{-webkit-transform:perspective(400px) rotateY(10deg);transform:perspective(400px) rotateY(10deg)}100%{-webkit-transform:perspective(400px) rotateY(0deg);transform:perspective(400px) rotateY(0deg);opacity:1}}@-webkit-keyframes flipOutX{0%{-webkit-transform:perspective(400px) rotateX(0deg);transform:perspective(400px) rotateX(0deg);opacity:1}100%{-webkit-transform:perspective(400px) rotateX(90deg);transform:perspective(400px) rotateX(90deg);opacity:0}}@-ms-keyframes flipOutX{0%{transform:perspective(400px) rotateX(0deg);opacity:1}100%{transform:perspective(400px) rotateX(90deg);opacity:0}}@keyframes flipOutX{0%{-webkit-transform:perspective(400px) rotateX(0deg);transform:perspective(400px) rotateX(0deg);opacity:1}100%{-webkit-transform:perspective(400px) rotateX(90deg);transform:perspective(400px) rotateX(90deg);opacity:0}}@-webkit-keyframes flipOutY{0%{-webkit-transform:perspective(400px) rotateY(0deg);transform:perspective(400px) rotateY(0deg);opacity:1}100%{-webkit-transform:perspective(400px) rotateY(90deg);transform:perspective(400px) rotateY(90deg);opacity:0}}@-ms-keyframes flipOutY{0%{transform:perspective(400px) rotateY(0deg);opacity:1}100%{transform:perspective(400px) rotateY(90deg);opacity:0}}@keyframes flipOutY{0%{-webkit-transform:perspective(400px) rotateY(0deg);transform:perspective(400px) rotateY(0deg);opacity:1}100%{-webkit-transform:perspective(400px) rotateY(90deg);transform:perspective(400px) rotateY(90deg);opacity:0}}.owl-theme .owl-dots .owl-dot.active span,.owl-theme .owl-dots .owl-dot:hover span{background:#DB8726;box-shadow:0 0 1px #343232}.owl-theme .owl-dots .owl-dot span{background:#253335}.recent .owl-theme .owl-controls{position:absolute;top:40%;width:100%}.recent .owl-next,.recent .owl-prev{position:absolute;color:#cee2ff!important;background:#000!important;-webkit-transition:all .25s;transition:all .25s}.recent .owl-next:hover,.recent .owl-prev:hover{color:#000!important;background:#cee2ff!important}.recent .owl-prev{left:0}.recent .owl-next{right:0}.recent .owl-dots{display:none!important}.owl-theme .owl-controls .owl-nav [class*=owl-]{font-size:25px!important}#Container .mix{display:none}blockquote{border-left:2px solid #DDD;color:#fff;margin:.9375em 0;padding-left:.46875em}blockquote cite{color:#fff;font-style:italic}blockquote cite:before{content:'\\2014 \\00A0'}.ui_btn,button,input.ui_btn{padding:10px 20px;border:none;border-bottom:3px solid #68a6ff;color:#fff;font-family:'Hansom FY W01 Bold',Arial,Helvetica,sans-serif;clear:both;-webkit-transition:background .25s;transition:background .25s;border-radius:2px}.ui_btn:hover,button:hover,input.ui_btn:hover{background:#fff}.ui_btn-layout-center{text-align:center;padding:3%}.ui_btn-active{background-color:#fff;color:#82b5ff}.ui_btn-hollow{background-color:#fff!important;border:0 solid #f2f1f7!important;border-radius:50px;text-transform:lowercase;margin:0 auto;padding:20px;max-width:250px;width:100%;cursor:pointer;-webkit-transition:all .25s;transition:all .25s;clear:both;font-size:1.6em!important;font-family:'Proxima Nova Soft W03 Reg',Georgia,serif;color:#3e3e3e!important;text-shadow:none}.ui_btn-hollow:hover{background:rgba(0,0,0,.3)!important;border:3px solid #f2f1f7;color:#f2f1f7!important;text-shadow:0 0 #f2f1f7;font-size:1.6em!important}.ui_btn-hollow:hover a{color:#f2f1f7!important}.ui_btn-hollow a{color:#3e3e3e}.ui_btn-hollow-top{border-radius:60px;border:none;border:0 solid!important;color:#5290b1!important;background-color:#fff!important;text-transform:lowercase;margin:0 auto;padding:20px;max-width:250px;width:100%;cursor:pointer;-webkit-transition:all .25s;transition:all .25s;clear:both;font-size:1.6em!important;font-family:'Proxima Nova Soft W03 Reg',Georgia,serif;text-shadow:none}.ui_btn-hollow-top:hover{border:3px solid #f2f1f7;color:#64b8cf!important;text-shadow:0 0 #f2f1f7;font-size:1.6em!important;cursor:pointer}.ui_btn-hollow-top:hover a{color:#f2f1f7!important}fieldset{border-radius:2px}label{font-family:'Hansom FY W01 Bold',Arial,Helvetica,sans-serif}input,textarea{border-radius:2px;border:1px solid #DDD}input[type=email],input[type=password],input[type=text]{height:35px;padding:0 10px}textarea{min-height:130px;padding:10px}hr{border-bottom:1px solid #DDD;border-left:none;border-right:none;border-top:none;margin:.9375em 0;width:100%}.ui_icon{font-size:10px}.ui_icon:before{content:' '!important;vertical-align:middle;display:inline-block;background-image:url(img/svg/sprite.svg);background-repeat:no-repeat;background-size:10em 28.2em}.no-svg .ui_icon:before{background-image:url(img/svg/sprite.png)}.ui_icon-chat:before{background-position:0 0;width:4.6em;height:4.6em}.ui_icon-cloud:before{background-position:0 -4.6em;width:3.1em;height:2.3em}.ui_icon-design:before{background-position:0 -6.9em;width:.8em;height:2.4em}.ui_icon-dev:before{background-position:0 -9.3em;width:2.3em;height:2.3em}.ui_icon-grid:before{background-position:0 -11.6em;width:10em;height:10em}.ui_icon-menu:before{background-position:0 -21.6em;width:3.2em;height:3.2em;cursor:pointer}.ui_icon-scroll:before{background-position:0 -24.8em;width:3.36em;height:1.76em}.ui_icon-top:before{background-position:0 -26.6em;width:2.96em;height:1.56em}ol,ul{margin:15px 0 15px 15px;padding-left:15px}dl dt{font-weight:700}li{float:left}.ui_msg-alert,.ui_msg-error,.ui_msg-notice,.ui_msg-success{padding:20px;border-radius:30px;color:#fff;font-family:'Hansom FY W01 Bold',Arial,Helvetica,sans-serif;margin:3px}.ui_msg-alert a,.ui_msg-error a,.ui_msg-notice a,.ui_msg-success a{-webkit-transition:color .25s;transition:color .25s;border-bottom:1px dotted;position:relative}.ui_msg-alert a:after,.ui_msg-alert a:before,.ui_msg-error a:after,.ui_msg-error a:before,.ui_msg-notice a:after,.ui_msg-notice a:before,.ui_msg-success a:after,.ui_msg-success a:before{display:none;z-index:98}.ui_msg-alert a:hover:after,.ui_msg-error a:hover:after,.ui_msg-notice a:hover:after,.ui_msg-success a:hover:after{content:'Testing';display:block;position:absolute;height:12px;padding:10px 20px;font-size:12px;white-space:nowrap;color:#fff;text-shadow:1px 1px #000;background-color:#222}.ui_msg-alert a:hover:before,.ui_msg-error a:hover:before,.ui_msg-notice a:hover:before,.ui_msg-success a:hover:before{height:0;width:0;border-left:3px solid transparent;border-right:3px solid transparent;border-top:3px solid #222;top:-6px;margin-top:0;left:47%}.ui_msg-alert a:hover:after,.ui_msg-error a:hover:after,.ui_msg-notice a:hover:after,.ui_msg-success a:hover:after{top:-28px;left:47%;margin-left:-20px}.ui_msg-alert a:hover,.ui_msg-error a:hover,.ui_msg-notice a:hover,.ui_msg-success a:hover{color:#fff}.ui_msg-success{background:#2ecc71}.ui_msg-success a{color:#7ee2a8}.ui_msg-error{background:#e74c3c}.ui_msg-error a{color:#f29f97}.ui_msg-notice{background:#cee2ff}.ui_msg-notice a{color:#8bc4ea}.ui_msg-alert{background:#f1c40f}.ui_msg-alert a{color:#f7dc6f}td,th{padding:5px}tr.even{border-top:1px dotted;border-bottom:1px dotted}.ui_label-title{position:relative;color:#f2f1f7;font-weight:900;font-style:italic;margin:0;text-align:center;font-family:'DIN Next Slab W01 UltraLight'}.ui_label-title span{color:#DB8726}.ui_label-cta{background:#82b5ff;background:rgba(130,181,255,.3);border-bottom:3px solid #000;text-align:center;text-transform:uppercase;color:#ddd;padding:13px 0 10px;border-radius:2px;margin:0;-webkit-transition:all .25s;transition:all .25s;cursor:pointer;font-size:2em;font-family:'Proxima Nova Soft W03 Reg',Georgia,serif}.ui_label-cta .ui_icon:before{margin-top:-7px;margin-right:6px;font-size:7px}.ui_label-cta:hover{color:#fff;background:#82b5ff;background:rgba(130,181,255,.3);font-size:2em;border-bottom:3px solid #82b5ff}.ui_tab-active{background:#82b5ff;background:rgba(130,181,255,.6);color:#fff;border-bottom:3px solid #4f97ff;border-bottom:3px solid rgba(0,0,0,.25)}@media (max-width:1024px){.ui_tab-content .col-3{-webkit-flex-basis:32%!important;-ms-flex-preferred-size:32%!important;flex-basis:32%!important}}@media (max-width:767px){.ui_tab-content .col-3{-webkit-flex-basis:49%!important;-ms-flex-preferred-size:49%!important;flex-basis:49%!important}}@media (max-width:600px){.ui_tab-content .col-3{-webkit-flex-basis:100%!important;-ms-flex-preferred-size:100%!important;flex-basis:100%!important}}.header{background:-webkit-linear-gradient(34deg,rgba(143,213,244,.76) 10%,rgba(59,132,228,.71) 90%) 0/cover;height:auto;text-shadow:1px 2px rgba(0,0,0,.3);box-shadow:inset 0 -3px 5px rgba(0,0,0,.41)}.header h3{text-align:center}.top{z-index:999;height:50px;position:fixed;top:0;left:0;width:100%;background-color:transparent}.logo{position:fixed;left:5px}.logo h1{font-family:'Hansom FY W01 Bold',Arial,Helvetica,sans-serif}.logo a{color:#fff}.ui_icon-menu{position:fixed;right:5px}.menu{position:fixed;top:0;background:rgba(0,0,0,.77);width:100%;height:100%;opacity:0;z-index:-1;margin:0;padding:0}.menu li{width:100%;text-align:center;list-style:none;margin:70px 0;font-size:2em}@media (max-width:600px){.menu li{margin:20px 0}}.welcome{max-width:500px;margin:80px auto;text-align:center;color:#f2f1f7;position:relative}.welcome .ui_icon-chat{position:absolute;right:0;top:-20px}.welcome h1{font-size:4.6em;opacity:0}.welcome a{opacity:0}.welcome p{opacity:0;margin:38px auto;float:left;padding:0;width:100%;font-size:2em}.scroll-down{float:left;width:100%;margin:40px auto}.scroll-down .fa-chevron-down{text-align:center;width:100%;cursor:pointer;position:absolute;right:50%;margin-right:-250px;bottom:-10%}@media (max-width:600px){.scroll-down .fa-chevron-down{position:relative;right:0;margin-right:0}}.footer{background:-webkit-linear-gradient(34deg,rgba(215,118,37,.61) 10%,rgba(42,117,179,.61) 90%) 0/cover;background:-webkit-linear-gradient(34deg,rgba(143,213,244,.76) 10%,rgba(59,164,228,.71) 90%) 0/cover}.newsletter{padding:100px 0 100px 100px}@media (max-width:600px){.newsletter{padding:0;-webkit-box-ordinal-group:3;-webkit-order:2;-ms-flex-order:2;order:2}}.newsletter h5{text-transform:uppercase;font-family:'Proxima Nova Soft W03 Reg',Georgia,serif;font-weight:100}.newsletter p{font-size:1.5em;color:#cee2ff;margin:5px 0;padding:0}.newsletter input{height:40px;border:none}.newsletter input[type=email],.newsletter input[type=text],.newsletter textarea{width:69%;background:#253335;background:rgba(142,205,240,.14);-webkit-transition:all .25s;transition:all .25s;border-radius:0;border:none}.newsletter input[type=email]:focus,.newsletter input[type=text]:focus,.newsletter textarea:focus{background:#253335;outline:0}.newsletter input[type=submit]{width:30%;background:#FFF;float:left;color:#5292b5;border-radius:50px;font-size:1em;text-transform:uppercase;-webkit-transition:background .25s;transition:background .25s}.newsletter input[type=submit]:hover{background:#9b5f1a}@media (max-width:600px){.newsletter input,.newsletter textarea{width:100%!important}}div.wpcf7-mail-sent-ok{border:2px solid #DB8726!important;width:69%!important;font-size:1.4em!important;padding:20px 0 20px 20px!important;margin:20px 0!important}.tp_recent_tweets li{background-image:url(assets/tweet.png);background-repeat:no-repeat;background-position:0 4px;padding-left:30px;padding-bottom:20px;float:left;clear:left;line-height:20px;list-style-type:none;font-size:1.1em}.tp_recent_tweets .twitter_time{color:rgba(255,255,255,.52)}.scroll-to{position:fixed;right:0;top:45%;z-index:9;margin-top:-60px;list-style:none;font-size:1.3em;font-family:'Hansom FY W01 Bold',Arial,Helvetica,sans-serif}@media (max-width:600px){.scroll-to{display:none}}.scroll-to ul{list-style:none;margin:5px;padding:5px}.scroll-to li{margin:0 0 5px;font-size:1.2em;float:none;position:relative;-webkit-transition:opacity .25s;transition:opacity .25s}.scroll-to li span{position:absolute;opacity:0;right:20px;background:rgba(0,0,0,.7);-webkit-transition:background .25s;transition:background .25s}.scroll-to li:hover span{opacity:1;display:inline-block;left:-96px;-webkit-box-pack:right;-webkit-justify-content:right;-ms-flex-pack:right;justify-content:right;padding:4px;width:89px;border-radius:10px;top:-30%;text-align:center}.skills{min-height:500px}.ctas .ui_btn-hollow{float:right;margin-top:30px}@media (max-width:600px){.ctas .ui_btn-hollow{float:none;margin:30px auto;display:block}}.ctas h4{text-align:center}.ctas .chart{margin-top:50px}.ctas svg{margin:0 auto;display:block}.cta-description p{max-width:800px;width:100%;font-size:21px;padding:30px 0;margin:0 auto;text-align:center}.progress-meter text{font-family:'Hansom FY W01 Bold',Arial,Helvetica,sans-serif;font-size:2.4em;font-weight:700}.featured-work{max-width:1120px}.featured-work .work{max-height:300px;height:300px;overflow:hidden;padding:1px;margin:0;text-align:center;position:relative;-webkit-transition:opacity .25s;transition:opacity .25s}@media (max-width:767px){.featured-work .work{-webkit-flex-basis:49%;-ms-flex-preferred-size:49%;flex-basis:49%}}@media (max-width:600px){.featured-work .work{-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%}}.featured-work .work img{height:auto}@media (max-width:1024px){.featured-work .work img{height:100%;width:auto;max-width:initial;overflow:hidden}}@media (max-width:767px){.featured-work .work img{width:100%;height:auto}}@media (max-width:600px){.featured-work .work img{max-width:320px}}.featured-work .work:hover .work-about{opacity:1}.featured-work .work-about{-webkit-transition:opacity .25s;transition:opacity .25s;opacity:0;position:absolute;height:100%;width:100%;background:rgba(0,0,0,.88)}.featured-work .work-about button{margin-top:20px}.scroll-down{opacity:0;font-size:1em;display:block}.scroll-down .fa{bottom:-17%;font-size:30px}.testimonials{background:url(img/sky.png) 0 60%/cover;height:auto;padding:130px 0;text-align:center}.testimonials p{max-width:720px;width:100%;font-size:27px;margin:0 auto}.recent{width:2000px;overflow:hidden}.recent-item{width:100%;height:250px;background:#253335;margin:0 5px 0 0;padding:0;-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;position:relative;cursor:move}.recent-item img{height:auto}.recent-item.testimonial{padding:50px 20px;background:#cee2ff;background:rgba(206,226,255,.6);border:3px solid rgba(32,39,48,.21)}.recent-item.testimonial h6{text-align:center}.recent-item .work-about{-webkit-transition:opacity .25s;transition:opacity .25s;opacity:0;position:absolute;height:100%;width:100%;background:rgba(0,0,0,.88)}.recent-item .work-about button{margin-top:20px}.recent-item:hover .work-about{opacity:1;z-index:9;text-align:center}.tag{text-transform:uppercase;text-align:center;font-family:'Hansom FY W01 Bold',Arial,Helvetica,sans-serif;background:#DB8726;position:absolute;top:0;right:0;font-size:1em;padding:12px}.inner .top{background:-webkit-linear-gradient(34deg,rgba(143,213,244,.76) 10%,rgba(59,132,228,.71) 90%) 0/cover}.screenshot{text-align:center;margin-top:65px;padding-top:0}.screenshot img{max-width:600px;margin:0 auto}@media (max-width:767px){.screenshot img{max-width:100%}}.screenshot h1{margin-top:0}.description li{margin:10px 0}.back-to-portfolio{text-align:center;padding:4%}.single-work-content{margin:40px 0}.single-work .description{margin-top:65px;border-top:10px solid rgba(215,118,37,.61);background:rgba(92,162,219,.19);padding:0 20px}.single-work .description .view-site{padding:20px;float:left}.screenshot img{-webkit-transition:opacity .25s;transition:opacity .25s}.screenshot a{position:relative;display:block}.screenshot-cover.fa{position:absolute;top:50%;left:0;width:100%;height:100%;z-index:1;float:left;display:none;font-size:30px}.screenshot img:hover~.screenshot-cover{display:block}.screenshot img:hover{opacity:.4}.work.header{padding:20px 0}.work.header h3{font-size:30px;font-style:italic;font-family:'DIN Next Slab W01 UltraLight'}.filters li{float:left;margin:10px;list-style:none;cursor:pointer}",
+			"file": "/Users/chriscarey/Documents/git_projects/chris/style.css",
+			"file_size": 34251,
+			"file_write_time": 130810445360000000,
+			"settings":
+			{
+				"buffer_size": 34252,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_label.scss",
+			"settings":
+			{
+				"buffer_size": 834,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_work.scss",
+			"settings":
+			{
+				"buffer_size": 221,
 				"line_ending": "Unix"
 			}
 		},
@@ -51,24 +118,53 @@
 			"file": "/Users/chriscarey/Documents/git_projects/chris/js/main.js",
 			"settings":
 			{
-				"buffer_size": 5062,
+				"buffer_size": 4969,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/chriscarey/Documents/git_projects/chris/footer.php",
+			"file": "/Users/chriscarey/Documents/git_projects/chris/js/main.min.js",
 			"settings":
 			{
-				"buffer_size": 1858,
+				"buffer_size": 3172,
 				"line_ending": "Unix"
 			}
 		},
 		{
+			"contents": ".screenshot{\n	text-align: center;\n	margin-top: 65px;\n	padding-top: 0;\n	img{\n		max-width: 600px;\n		@include media(tablet){\n			max-width: 100%;\n		}\n		margin: 0 auto;\n	}\n	h1{\n		margin-top: 0;\n	}\n}\n.description{\n	li{\n		margin: 10px 0;s\n	}\n}\n.back-to-portfolio{\n	text-align: center;\n	padding: 4%;\n}\n\n.single-work-content{\n	margin: 40px 0;\n}\n\n.single-work{\n	.description{\n		margin-top: 65px;\n		border-top: 10px solid rgba(215,118,37,.61);\n		background: rgba(92, 162, 219, 0.19);\n		padding: 0 20px;\n		.view-site{\n			padding: 20px;\n			float: left;\n		}\n	}\n}\n.screenshot{\n	img{\n		transition: opacity $speed;\n	}\n	a{\n		position: relative;\n		display: block;\n	}\n}\n.screenshot-cover.fa{\n	position: absolute;\n	top: 50%;\n	left: 0;\n	width: 100%;\n	height: 100%;\n	z-index: 1;\n	float: left;\n	display: none;\n	font-size: 30px;\n}\n.screenshot img:hover ~ .screenshot-cover{\n	display: block;\n}\n.screenshot img:hover{\n	opacity: .4;\n}",
 			"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_single-work.scss",
+			"file_size": 905,
+			"file_write_time": 130805852690000000,
 			"settings":
 			{
-				"buffer_size": 786,
+				"buffer_size": 906,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chriscarey/Documents/git_projects/chris/functions.php",
+			"settings":
+			{
+				"buffer_size": 9450,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nGitGutter:\n---------\n\n  😍 Love Git Gutter? Want to support development?\n  \n  I've teamed up with Wes Bos to offer a discount on Sublime Text Power User.\n  \n  Become amazing with Sublime Text with this book + video series. 📖📹\n  \n  Join 3,000 other developers who have increased productivity and become better developers.\n  \n  \n  👉 SublimeTextBook.com/friend/GITGUTTER\n  💰 Use the coupon code GITGUTTER for $10 off 💵\n  \n  This is a fantastic resource - 100% money back guarantee! 🌟\n  \n\n  * Fixes a bug dealing with UTF-8 with BOM\n  \n  * Fixes ST3 not working with Cygwin git\n  \n  * Make non_blocking mode work in ST2\n  \n\n\nGulp:\n----\n\n     _____       _       \n    / ____|     | |      \n   | |  __ _   _| |_ __  \n   | | |_ | | | | | '_ \\ \n   | |__| | |_| | | |_) |\n    \\_____|\\__,_|_| .__/ \n                  | |    \n                  |_|    \n  \n  Recent Changes\n  ==============\n  \n  Hello!\n  \n  New command! if you forget to kill your running tasks before exiting Sublime Text, now you can use `gulp_exit`.\n  \n  This command will close Sublime Text, but first it'll kill any running tasks. It's the same as running `Gulp: Kill running tasks` and immediately exiting the editor.\n  If no running tasks are found or an error occurs killing them, the editor will close anyways.\n  \n  You can select `Gulp: Exit editor killing running tasks` on the command palette or create a keybinding like this:\n  \n      { \"keys\": [\"KEYS\"], \"command\": \"gulp_exit\" }\n  \n  You can bind it to `alt+f4` or `super+q` so you don't have to remember it. Sadly it won't run if you close the editor using the close button and Sublime doesn't provide a callback for that.\n  \n  If you find any problem or you have a feature request you can do so at https://github.com/NicoSantangelo/sublime-gulp/issues\n  \n  Thanks to @dirad for the idea.\n  \n",
+			"settings":
+			{
+				"buffer_size": 1861,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
 			}
 		}
 	],
@@ -80,9 +176,13 @@
 	"command_palette":
 	{
 		"height": 400.0,
-		"last_filter": "",
+		"last_filter": "gulp",
 		"selected_items":
 		[
+			[
+				"gulp",
+				"Gulp"
+			],
 			[
 				"spel",
 				"Google Spell Check"
@@ -94,10 +194,6 @@
 			[
 				"snipp",
 				"Snippet: cp"
-			],
-			[
-				"gulp",
-				"Gulp"
 			],
 			[
 				"auto",
@@ -120,7 +216,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 583.0
+		"width": 556.0
 	},
 	"console":
 	{
@@ -146,8 +242,14 @@
 	],
 	"file_history":
 	[
-		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_header.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_single-work.scss",
+		"/Users/chriscarey/Documents/git_projects/chris/js/main.js",
+		"/Users/chriscarey/Documents/git_projects/chris/front-page.php",
+		"/Users/chriscarey/Documents/git_projects/chris/page.php",
+		"/Users/chriscarey/Documents/git_projects/chris/page-work.php",
+		"/Users/chriscarey/Documents/git_projects/chris/index.php",
+		"/Users/chriscarey/Documents/git_projects/chris/single-work.php",
+		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_header.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_owl-carousel.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/ui/_label.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/functions.php",
@@ -156,14 +258,8 @@
 		"/Users/chriscarey/Documents/git_projects/chris/sass/base/_typography.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/header.php",
 		"/Users/chriscarey/Documents/git_projects/chris/home.php",
-		"/Users/chriscarey/Documents/git_projects/chris/index.php",
-		"/Users/chriscarey/Documents/git_projects/chris/single-work.php",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_footer.scss",
-		"/Users/chriscarey/Documents/git_projects/chris/page.php",
-		"/Users/chriscarey/Documents/git_projects/chris/page-work.php",
-		"/Users/chriscarey/Documents/git_projects/chris/js/main.js",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/pages/_inner.scss",
-		"/Users/chriscarey/Documents/git_projects/chris/front-page.php",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/ui/_btn.scss",
 		"/Users/chriscarey/Documents/git_projects/chris/footer.php",
 		"/Users/chriscarey/Documents/git_projects/chris/sass/third-party/_mixitup.scss",
@@ -204,6 +300,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"$window",
 			"scrollscene",
 			"= TweenMax.to",
 			"col-8",
@@ -256,213 +353,16 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 17,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/single-work.php",
+					"file": "/Users/chriscarey/Documents/git_projects/chris/header.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3133,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								587,
-								587
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 155.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 739,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								575,
-								575
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/page-work.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2503,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								574,
-								574
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/page.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 739,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								575,
-								575
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/front-page.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11490,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								449,
-								580
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/js/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5062,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3541,
-								3552
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2171.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/footer.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1858,
+						"buffer_size": 2092,
 						"regions":
 						{
 						},
@@ -480,6 +380,532 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/front-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								491,
+								491
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 35.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_icon.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_tabs.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1026,
+								1026
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_home.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_inner.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_btn.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								543,
+								543
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 460.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_front-page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								545,
+								545
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/ui/_label.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								822,
+								822
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 63.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_work.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/js/main.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_single-work.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/sftp-config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								374,
+								374
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -491,35 +917,73 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "/Users/chriscarey/Documents/git_projects/chris/sass/pages/_single-work.scss",
+					"buffer": 17,
+					"file": "/Users/chriscarey/Documents/git_projects/chris/functions.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 786,
+						"buffer_size": 9450,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								582,
-								582
+								242,
+								28
 							]
 						],
 						"settings":
 						{
 							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 244.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1861,
+								1861
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"default_dir": "/Users/chriscarey/Documents/git_projects/chris",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 391.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
 					"type": "text"
 				}
 			]
@@ -582,8 +1046,40 @@
 		"selected_items":
 		[
 			[
+				"functions",
+				"functions.php"
+			],
+			[
+				"header.sc",
+				"sass/pages/_header.scss"
+			],
+			[
+				"front-page.sc",
+				"sass/pages/_front-page.scss"
+			],
+			[
+				"_btn",
+				"sass/ui/_btn.scss"
+			],
+			[
 				"main.js",
 				"js/main.js"
+			],
+			[
+				"front-page.php",
+				"front-page.php"
+			],
+			[
+				"header.php",
+				"header.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"front-page",
+				"front-page.php"
 			]
 		],
 		"width": 0.0
@@ -591,12 +1087,56 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "axim",
+		"last_filter": "my",
 		"selected_items":
 		[
 			[
+				"my",
+				"~/Documents/sublime_projects/mysqli.sublime-project"
+			],
+			[
+				"chicago",
+				"~/Documents/sublime_projects/chicago-test.sublime-project"
+			],
+			[
+				"chi",
+				"~/Documents/sublime_projects/chicago-test.sublime-project"
+			],
+			[
+				"mann",
+				"~/Documents/sublime_projects/manna.sublime-project"
+			],
+			[
 				"axim",
 				"~/Documents/sublime_projects/axim.sublime-project"
+			],
+			[
+				"social",
+				"~/Documents/sublime_projects/social.sublime-project"
+			],
+			[
+				"g",
+				"~/Documents/sublime_projects/hellogo.sublime-project"
+			],
+			[
+				"go",
+				"~/Documents/sublime_projects/hellogo.sublime-project"
+			],
+			[
+				"poo",
+				"~/Documents/sublime_projects/poorsites.sublime-project"
+			],
+			[
+				"dev",
+				"~/Documents/sublime_projects/theta-dev.sublime-project"
+			],
+			[
+				"ssai",
+				"~/Documents/sublime_projects/ssai.sublime-project"
+			],
+			[
+				"chris",
+				"~/Documents/git_projects/framework/chris.sublime-project"
 			],
 			[
 				"theta-dev",
