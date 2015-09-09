@@ -5,7 +5,6 @@ define( 'IMG', ROOT . '/img' );
 define( 'CSS', ROOT . '/css' );
 define( 'JS', ROOT . '/js' );
 define( 'BOWER', ROOT . '/js/lib' );
-
 define( 'SITE', get_site_url() );
 
 
@@ -229,6 +228,34 @@ function wpbeginner_numeric_posts_nav() {
 
     echo '</ul></div>' . "\n";
 }
+
+//wrap string with tags
+function ext_str_ireplace($findme, $replacewith, $text) { 
+    // Replaces $findme in $subject with $replacewith 
+    // Ignores the case and do keep the original capitalization by using $1 in $replacewith 
+    // Required: PHP 5 
+
+    $rest = $text; 
+
+    $result = ''; 
+
+    while (mb_stripos($rest, $findme) !== false) { 
+      $pos = mb_stripos($rest, $findme); 
+
+      // Remove the wanted string from $rest and append it to $result 
+      $result .= mb_substr($rest, 0, $pos); 
+      $rest = mb_substr($rest, $pos, mb_strlen($rest)-$pos); 
+
+      // Remove the wanted string from $rest and place it correctly into $result 
+      $result .= mb_ereg_replace('$1', mb_substr($rest, 0, mb_strlen($findme)), $replacewith); 
+      $rest = mb_substr($rest, mb_strlen($findme), mb_strlen($rest)-mb_strlen($findme)); 
+    } 
+
+    // After the last match, append the rest 
+    $result .= $rest; 
+
+    return $result; 
+} 
 
 // detect if device is mobile
 $mobile = array('iPhone', 'Android', 'webOS', 'BlackBerry', 'iPod'); //etc add more
